@@ -1,0 +1,8 @@
+Two-stage all-characteristic certifier (job ts5e5), 5x10^5 giants, 60 GB ulimit, 2 Jul 2026
+  [  77.2s] progress: 25 pairs two-stage certified, issues=0
+  [ 125.6s] progress: 50 pairs two-stage certified, issues=0
+  [ 165.4s] progress: 75 pairs two-stage certified, issues=0
+  Flint exception (General error): Unable to allocate memory (6422528).
+  Aborted   (exit 134 = SIGABRT at the 60 GB memory cap)
+OUTCOME: 75 pairs two-stage certified (issues=0); run aborted at cap on the 5x10^5 giant pairs.
+Per protocol: offending pairs marked battery-scoped; dense SNF NOT attempted; cap NOT raised.

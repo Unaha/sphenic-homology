@@ -10,3 +10,8 @@
 | 6 | Prior-art positioning (Björner–Kalai, Nagel–Reiner, Rusnak line) | Deep-read, documented | papers/05 |
 
 Evidence stack for (5): 616/616 leakage-gauge rank certificates over five N; 8-prime battery at emission; independent checker replay (different algorithms) clean; independent enumeration replay clean; 32,868-check modular sweep: no bad primes below 1000; exact integer invariant-factor certificates (unit-pivot + residual SNF): none outside {2,3}; characteristic stratification observed exactly (GF(2) → elem; GF(3) → +1 cross-theta, matching Rusnak's all-entrant GF(k) dependency).
+
+## Replay and certification log (2 Jul 2026)
+
+- Independent-checker replay (job chknew): N50000 (55 pairs), N300000 (153 pairs), N500000 (210 pairs) all replayed clean by the independent checker (different algorithm, different elimination order), 0 failures. Verdict: ALL REPLAYED CLEAN.
+- Two-stage all-characteristic certifier (job ts5e5, 5x10^5 giants, 60 GB cap): 75 pairs two-stage certified (issues=0), then the run aborted at the memory cap (FLINT allocation failure at ulimit). The remaining 5x10^5 giant pairs are battery-scoped: they hold over the eight-prime battery, but their two-stage integer (all-characteristic) certificate was not obtained. Per protocol, dense SNF was not attempted and the cap was not raised. The all-characteristic scope in papers/08 is therefore N in {1e5, 2e5}.

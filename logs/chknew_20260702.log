@@ -1,0 +1,6 @@
+Independent-checker replay (job chknew), 2 Jul 2026
+Bundles: /lab/replay_c0746/{N50000,N300000,N500000}
+  N50000:  INDEPENDENT CHECK: 55 pairs,  failures=0  -> ALL REPLAYED CLEAN
+  N300000: INDEPENDENT CHECK: 153 pairs, failures=0  -> ALL REPLAYED CLEAN
+  N500000: INDEPENDENT CHECK: 210 pairs, failures=0  -> ALL REPLAYED CLEAN
+VERDICT: ALL REPLAYED CLEAN (independent algorithm, different elimination order).
