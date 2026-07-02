@@ -1,5 +1,7 @@
 # sphenic-homology
 
+[![DOI](https://zenodo.org/badge/1287222164.svg)](https://doi.org/10.5281/zenodo.21135221)
+
 **The homology of the sphenic window complex, reduced to counting functions, with machine-verifiable certificates.**
 
 For a window `(N/2, N]`, build the 2-complex whose triangles are the *sphenics* (squarefree p·q·r) in the window, edges the co-occurring prime pairs, vertices the primes. This repository contains proofs, exact identities, and replayable certificates establishing:
