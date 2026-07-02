@@ -1,0 +1,9452 @@
+{
+ "pair_v2_a3.json.gz": {
+  "sha256": "9b3b7cc071ba47239f67e33855b626e60870d1543f5a75fac8611f1ddf01ed29",
+  "ranks": {
+   "5": {
+    "k1_rank": 20983,
+    "k2_rank": 20983,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20983,
+    "k2_rank": 20983,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20983,
+    "k2_rank": 20983,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20983,
+    "k2_rank": 20983,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20983,
+    "k2_rank": 20983,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20983,
+    "k2_rank": 20983,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20983,
+    "k2_rank": 20983,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20983,
+    "k2_rank": 20983,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a5.json.gz": {
+  "sha256": "81d004853596851e6b20ac1ca2b8b00be633592ad29b640c6ca8b6587d64e30f",
+  "ranks": {
+   "5": {
+    "k1_rank": 12588,
+    "k2_rank": 12588,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 12588,
+    "k2_rank": 12588,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 12588,
+    "k2_rank": 12588,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 12588,
+    "k2_rank": 12588,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 12588,
+    "k2_rank": 12588,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 12588,
+    "k2_rank": 12588,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 12588,
+    "k2_rank": 12588,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 12588,
+    "k2_rank": 12588,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a7.json.gz": {
+  "sha256": "79cc235d1384b2d2f33b58b69bd525deab5ba7e96256da22b3f82f6d3373a09c",
+  "ranks": {
+   "5": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a11.json.gz": {
+  "sha256": "8ab83fb6826e76793015dbada79b4fd21c677121dbdd76a172819ba7b771cad9",
+  "ranks": {
+   "5": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a13.json.gz": {
+  "sha256": "95b43e40d07a86f9845a0e7c6493ee8c6b361c93ede10b3fd82e23e1bdcbefa5",
+  "ranks": {
+   "5": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a17.json.gz": {
+  "sha256": "eed5e62934ffb52e47e250dba7b783a37bbbd5c709e1f7fbfa9b193b48a199c6",
+  "ranks": {
+   "5": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a19.json.gz": {
+  "sha256": "0ad2c62ae366ac1dc48bd13699bfd42cc6a964e9ebe021a60bb82958b02db663",
+  "ranks": {
+   "5": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a23.json.gz": {
+  "sha256": "e18cf03e8dda208d57e4a6d257cbfb7bd8a74356675837bdb5d299bafdc04a0d",
+  "ranks": {
+   "5": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a29.json.gz": {
+  "sha256": "7bb8e34d37fec94d9ac0756cc1661f51d09311e204378fe32f533090b635f04c",
+  "ranks": {
+   "5": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a31.json.gz": {
+  "sha256": "bbe50e0678b464476437619da5cd6bcb17ac65e01898ab7693ef679e528a7ed9",
+  "ranks": {
+   "5": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a37.json.gz": {
+  "sha256": "35f6bf35df328b227bf1aa8ee03f4cb6a48581fb15ef7573bef814b356658aa4",
+  "ranks": {
+   "5": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a41.json.gz": {
+  "sha256": "064745219fa70ce7815107a150aa7366c102d233c6cb7772ed983c3c38c36881",
+  "ranks": {
+   "5": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a43.json.gz": {
+  "sha256": "df37429c759da2caffa50d5ec7958c011e57a75eebe20530166e170bef9420ce",
+  "ranks": {
+   "5": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a47.json.gz": {
+  "sha256": "1b793bb8700cbcf0876e8180ae8cc9587e0b0d86c8d3c30bc9a91cbd55725877",
+  "ranks": {
+   "5": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a53.json.gz": {
+  "sha256": "9bf827e7e35e68095b35fbcd8ec1b4c2059cc155009d2c658fe40c918755b61e",
+  "ranks": {
+   "5": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a59.json.gz": {
+  "sha256": "ae9b56c9669df23ad6046e0053255123a40fc21ec04f95d6026c0c105b71dff7",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a61.json.gz": {
+  "sha256": "8dd82f97e1963a5b1d99de6edfb97d3d98dddaa8198716f1208b2622f592bf60",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a67.json.gz": {
+  "sha256": "64e34a94f516f8d195a2303da7aa6b173233fee156ced68c41456ac3f5c3c007",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a71.json.gz": {
+  "sha256": "d8658e46f5e3597d16d21e584525c5ee6cc61befb1f1f67c000c5efbc5cd2227",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v2_a73.json.gz": {
+  "sha256": "2b1da87c919bd7c4a72fbce0db3c40cbde500373130ce161fc2c044a3e4c8244",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a5.json.gz": {
+  "sha256": "2b2abbc316decc19f21e9f680e1d14790d6cf87bc37d98b4130f92b64df3d629",
+  "ranks": {
+   "5": {
+    "k1_rank": 11798,
+    "k2_rank": 11798,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 11798,
+    "k2_rank": 11798,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 11798,
+    "k2_rank": 11798,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 11798,
+    "k2_rank": 11798,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 11798,
+    "k2_rank": 11798,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 11798,
+    "k2_rank": 11798,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 11798,
+    "k2_rank": 11798,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 11798,
+    "k2_rank": 11798,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a7.json.gz": {
+  "sha256": "185c0bba0a3376792db4ef0fce59057174384e34506b708b64d28d2f21c5a6a9",
+  "ranks": {
+   "5": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 7876,
+    "k2_rank": 7876,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a11.json.gz": {
+  "sha256": "777e2bde6a07b956d8011958b8939bcbca9c9000626806a692120e0613c2c60d",
+  "ranks": {
+   "5": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a13.json.gz": {
+  "sha256": "35a2d7f85290a104dcae3935db2f72ffd56862fabf3e5b9dfcc63ee7bb4a3e98",
+  "ranks": {
+   "5": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a17.json.gz": {
+  "sha256": "0cfb6d0a91aeb34fd664bdc37060cb21d68642eacc77459e669a990382d7f4dd",
+  "ranks": {
+   "5": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a19.json.gz": {
+  "sha256": "bbc2349c716f5b88bff4d6b4989be5e34f8296aaa7df8531955cfa13d0d14e06",
+  "ranks": {
+   "5": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a23.json.gz": {
+  "sha256": "34e2041c64c4a3619e25d44b36aa50aac3bb4d73df46ee2f3700bd3458faeb82",
+  "ranks": {
+   "5": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a29.json.gz": {
+  "sha256": "f03c0dd3d94d93ee4b663c287d7d6b59e531e790d0673bbda1479cb4fc153ee0",
+  "ranks": {
+   "5": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a31.json.gz": {
+  "sha256": "e127e6569570c4b07b0edf36c3cc089bce9b0fa4443f67a4d762c25b1615894d",
+  "ranks": {
+   "5": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a37.json.gz": {
+  "sha256": "06c47489d5c08e7dc24600c753c94a90ecc3430df6989aa83b75a34be904872d",
+  "ranks": {
+   "5": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a41.json.gz": {
+  "sha256": "83c328eff413faf759b442f5851281601fbf4a14cb877051cdc1194fb5f73e13",
+  "ranks": {
+   "5": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a43.json.gz": {
+  "sha256": "a9d490d8b418e500b17d2c61bd388af7c4747278280e1b0247ee32c602073001",
+  "ranks": {
+   "5": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a47.json.gz": {
+  "sha256": "3831141fc3f5f78db5cc2d6cb64fb346fc92521f16f5e657f8079e8082e3ef3c",
+  "ranks": {
+   "5": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a53.json.gz": {
+  "sha256": "e00bc0ac1b235919d5505cfdc548ca13d06c72c77ed5c24babdfb007af92b430",
+  "ranks": {
+   "5": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a59.json.gz": {
+  "sha256": "7a26ad56f17e3f745e5e5cfad76e97e35982c2d26dd9c3cad9deb41978238508",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a61.json.gz": {
+  "sha256": "f43a654cfe4f0f129f146261d95d934a8f99dfa12bcdf4df0d0c19739ebdd551",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a67.json.gz": {
+  "sha256": "cd2c78aaee84856965623f4ac786424f67e490090bb09caeae10ce66925ad6e2",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a71.json.gz": {
+  "sha256": "98c664f07045eac936644588ea538cbbd50c59835afabece8ef9a06cc989e4ce",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v3_a73.json.gz": {
+  "sha256": "7191f05cee2681e057ae8c8d64f46c8ff054c5221323b535d75a82765e48d4be",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a7.json.gz": {
+  "sha256": "fefc801c175449451b630acf2967f3c8f945c28df4d5025bad6035e4425a2798",
+  "ranks": {
+   "5": {
+    "k1_rank": 6382,
+    "k2_rank": 6382,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6382,
+    "k2_rank": 6382,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6382,
+    "k2_rank": 6382,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6382,
+    "k2_rank": 6382,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6382,
+    "k2_rank": 6382,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6382,
+    "k2_rank": 6382,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6382,
+    "k2_rank": 6382,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6382,
+    "k2_rank": 6382,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a11.json.gz": {
+  "sha256": "fb72890a00fa27e746de85c2e072a2b94c4c1bdb9814a197c9968973774b3c47",
+  "ranks": {
+   "5": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 4467,
+    "k2_rank": 4467,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a13.json.gz": {
+  "sha256": "60cd8e26738cc937dae4726fd92d91a663c9f46b1d09171d7a60c5190bd5b3e3",
+  "ranks": {
+   "5": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 3310,
+    "k2_rank": 3310,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a17.json.gz": {
+  "sha256": "5de8781d7b05f102659d958912fa7abec51959f1b3cded8ea248534da40ddc12",
+  "ranks": {
+   "5": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a19.json.gz": {
+  "sha256": "fa7b96de71c6d09284af5895c37131115c0656cda473c8cd8e298ab463d438db",
+  "ranks": {
+   "5": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a23.json.gz": {
+  "sha256": "32bbf037ea052ad48161e764ce5eb95f30eee52e35b75f56f713562548c7bb7a",
+  "ranks": {
+   "5": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a29.json.gz": {
+  "sha256": "6ff1d439e9caee7810ee4053d1f9a25063669738bb43c6afedcee2fe49a9ee08",
+  "ranks": {
+   "5": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a31.json.gz": {
+  "sha256": "c8694a941de39de543cbd107e6120c30de30d58e3c552b604e0f3996037834e5",
+  "ranks": {
+   "5": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a37.json.gz": {
+  "sha256": "5ed560ab1fca2b2cbab255e1ff8d5851f6881f6b43879e1095e8152a949aad65",
+  "ranks": {
+   "5": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a41.json.gz": {
+  "sha256": "e19ac3805038dc2488aab03914f6225192f358de1eed5a811c9384dccb94e4de",
+  "ranks": {
+   "5": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a43.json.gz": {
+  "sha256": "fced4656533abc63205167034b15b769ce6f2aaa5c9973bbf5ffa14ad956e3bf",
+  "ranks": {
+   "5": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a47.json.gz": {
+  "sha256": "3bb6d9bc6ac46f013812363ceab2a517abb8f3a8e4ab7609c228f5eb61f3ebe0",
+  "ranks": {
+   "5": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a53.json.gz": {
+  "sha256": "386a3a55e9587d244d87199e87ecb61adb4cee3c776180940ddfc99cdeb9b99d",
+  "ranks": {
+   "5": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a59.json.gz": {
+  "sha256": "c92369c57f828cccb8cffb39bd2c933b8808d461e4f349425e2aee0eb9c1644d",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a61.json.gz": {
+  "sha256": "de75fdc58cfa9e6332b1ea7b048592c34c35c99a58980ad9094a87f4faefa05d",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a67.json.gz": {
+  "sha256": "ca4e1a2d348485a750e04ab0f6b5db28d06b9c33bd30331761d33f0686685945",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a71.json.gz": {
+  "sha256": "eab78ccc07439b1151b66ec4428656b1b48146691983dbde419f4370291ee87f",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v5_a73.json.gz": {
+  "sha256": "f55b22d40a171d3be63f104078c0f1cd67690513918e5a23a6abfb489a073887",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a11.json.gz": {
+  "sha256": "542d62b3cfbbd2f8538c04602ac96c2c7b939c2cb24ede62a1f89caf519d6753",
+  "ranks": {
+   "5": {
+    "k1_rank": 3996,
+    "k2_rank": 3996,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 3996,
+    "k2_rank": 3996,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 3996,
+    "k2_rank": 3996,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 3996,
+    "k2_rank": 3996,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 3996,
+    "k2_rank": 3996,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 3996,
+    "k2_rank": 3996,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 3996,
+    "k2_rank": 3996,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 3996,
+    "k2_rank": 3996,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a13.json.gz": {
+  "sha256": "a5314ce204f25709a8c7be85d891ad8eca46bf2acf0966733ae90c67ab1edbd3",
+  "ranks": {
+   "5": {
+    "k1_rank": 3282,
+    "k2_rank": 3282,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 3282,
+    "k2_rank": 3282,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 3282,
+    "k2_rank": 3282,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 3282,
+    "k2_rank": 3282,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 3282,
+    "k2_rank": 3282,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 3282,
+    "k2_rank": 3282,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 3282,
+    "k2_rank": 3282,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 3282,
+    "k2_rank": 3282,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a17.json.gz": {
+  "sha256": "c4779e0abe2ca03b73cce0638b9b69d0434a09a0ca1b1286985fe2085959dfb7",
+  "ranks": {
+   "5": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 2200,
+    "k2_rank": 2200,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a19.json.gz": {
+  "sha256": "3c64b7fbf05791688406ade71cfe9dd919cc95d2d7fa4abbd6d55d2f65d9d7ed",
+  "ranks": {
+   "5": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1697,
+    "k2_rank": 1697,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a23.json.gz": {
+  "sha256": "750701a81aafbf7c06fd07c1592f311fee801110ed3560f880d20b0f1314e069",
+  "ranks": {
+   "5": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a29.json.gz": {
+  "sha256": "a7ce9af74152b2c76019732887eff951288fcfc1f17aadb1538c46a43c0224e6",
+  "ranks": {
+   "5": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a31.json.gz": {
+  "sha256": "f8caaa0a98bc87a9e6f6bd920cc2665f11f26d248e8b7a0f22e43c556b013369",
+  "ranks": {
+   "5": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a37.json.gz": {
+  "sha256": "ef074648795685e9b283c3fe6a8819275d0e032d116b9fc2a53d9e9ddd6db70e",
+  "ranks": {
+   "5": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a41.json.gz": {
+  "sha256": "1fa626ad15d433bdf086871184d61d241e3f5e56d75b02cf1c39a4589d50867c",
+  "ranks": {
+   "5": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a43.json.gz": {
+  "sha256": "33901afbf3093f90afe8daa18b664a6d47df69a8dc8cf5892329c367171d5c3e",
+  "ranks": {
+   "5": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a47.json.gz": {
+  "sha256": "93fd0c1bf91befa6d4ae0f59b44fa38115281b4637b086819652cabf9082a1c2",
+  "ranks": {
+   "5": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a53.json.gz": {
+  "sha256": "9068ac718864ccdd0bed457fc85d85d3a6e2d040a010e0b82ecea13db9a5ac1c",
+  "ranks": {
+   "5": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a59.json.gz": {
+  "sha256": "3569528b60cf709e8f768d2f68932b1199e07f83b415b3322a1fc263a74d477a",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a61.json.gz": {
+  "sha256": "25e2f4f84f9a52a107eb2db3025f7261295dfcd6956bae71f1dccc603372b1f9",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a67.json.gz": {
+  "sha256": "c15568f98010c3f7b28007a98cf4de3461ed1180efba0b349d741ab0167be73c",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a71.json.gz": {
+  "sha256": "8760208c34d855055379dc16097f2d9105f229a9b813af7a3dc8a9caaaf3495d",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v7_a73.json.gz": {
+  "sha256": "ed157c6f3c07be2e0720025f2fd5922016714309be9ad4db543f28b899c5a2b2",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a13.json.gz": {
+  "sha256": "20a2b6550b43ff676b6c4ec5f97caf18cd079fa9771bff429ff54c346d5eb9a7",
+  "ranks": {
+   "5": {
+    "k1_rank": 2274,
+    "k2_rank": 2274,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 2274,
+    "k2_rank": 2274,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 2274,
+    "k2_rank": 2274,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 2274,
+    "k2_rank": 2274,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 2274,
+    "k2_rank": 2274,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 2274,
+    "k2_rank": 2274,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 2274,
+    "k2_rank": 2274,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 2274,
+    "k2_rank": 2274,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a17.json.gz": {
+  "sha256": "70a347a8857c394e948fde5b4469ee51ccdee2d8e4f9debbf2081aa8a2955b07",
+  "ranks": {
+   "5": {
+    "k1_rank": 1917,
+    "k2_rank": 1917,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1917,
+    "k2_rank": 1917,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1917,
+    "k2_rank": 1917,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1917,
+    "k2_rank": 1917,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1917,
+    "k2_rank": 1917,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1917,
+    "k2_rank": 1917,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1917,
+    "k2_rank": 1917,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1917,
+    "k2_rank": 1917,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a19.json.gz": {
+  "sha256": "aa3250f997d689e74d26c4d63262dd406537fee64db67f5bc7e17f0257f45034",
+  "ranks": {
+   "5": {
+    "k1_rank": 1605,
+    "k2_rank": 1605,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1605,
+    "k2_rank": 1605,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1605,
+    "k2_rank": 1605,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1605,
+    "k2_rank": 1605,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1605,
+    "k2_rank": 1605,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1605,
+    "k2_rank": 1605,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1605,
+    "k2_rank": 1605,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1605,
+    "k2_rank": 1605,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a23.json.gz": {
+  "sha256": "5a480656b10fd28af6d78a9e2f833282a102feedf01e43d2a527b915f698ad5c",
+  "ranks": {
+   "5": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1198,
+    "k2_rank": 1198,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a29.json.gz": {
+  "sha256": "85f507e6f76cefad9b24457320b72d67eed49d3ab13fcc1168a28c36a0dc9177",
+  "ranks": {
+   "5": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a31.json.gz": {
+  "sha256": "9ab4ed536122f52b27b745cfc12bc04c8843cd370580555fea7a69c9fed77bc2",
+  "ranks": {
+   "5": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a37.json.gz": {
+  "sha256": "7bec5396bd4ed379f43d614ffec1096ecc3599408cd8a43527cd1283147ecff0",
+  "ranks": {
+   "5": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a41.json.gz": {
+  "sha256": "51a94aec8596e28bccd0b24951b78927126c62789a6657cea19bbf6caadbfac5",
+  "ranks": {
+   "5": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a43.json.gz": {
+  "sha256": "ace322715e315f327d97f934b8a8a68d77ae1e2d5c71f9cf8c85b19355f1d5da",
+  "ranks": {
+   "5": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a47.json.gz": {
+  "sha256": "e63da16a2385a51ee63042b524928fbf9848e944fd5b1fd49af1a26231cc4616",
+  "ranks": {
+   "5": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a53.json.gz": {
+  "sha256": "58105514b7d3145cf9ad7d2a6c9b8317972a7db73f0c0e2f9369532963a6e014",
+  "ranks": {
+   "5": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a59.json.gz": {
+  "sha256": "44ed17df29221e8fad475414d3e5fd774fb94c7fbff4535c67b7c61837f87a0d",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a61.json.gz": {
+  "sha256": "06751f0c39db7f42786c30f1fb5d44a6435aa1891539edbd10593e646b0f7100",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a67.json.gz": {
+  "sha256": "f85f842700fb9c82059950d4ca07693c917b9c8de27b0d66f6b67655840eca43",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a71.json.gz": {
+  "sha256": "873baa0da59f59285f3a5ac56d664c07d2e24eb9d60b7c4754b3c0e8be94a674",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v11_a73.json.gz": {
+  "sha256": "5a41270b33b05ee19c331c2e16cb648da16f9b3cc5f6be4a74b21c2df6876505",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a17.json.gz": {
+  "sha256": "20167bc54ba39a0f59ed9449c57983edf377af4e6a7fe3100acc40af51cc02ca",
+  "ranks": {
+   "5": {
+    "k1_rank": 1657,
+    "k2_rank": 1657,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1657,
+    "k2_rank": 1657,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1657,
+    "k2_rank": 1657,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1657,
+    "k2_rank": 1657,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1657,
+    "k2_rank": 1657,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1657,
+    "k2_rank": 1657,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1657,
+    "k2_rank": 1657,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1657,
+    "k2_rank": 1657,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a19.json.gz": {
+  "sha256": "43b0fa64fcec6c305924dd0b75b2502a85b91926dd2beed7dc17a5a378faef94",
+  "ranks": {
+   "5": {
+    "k1_rank": 1389,
+    "k2_rank": 1389,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1389,
+    "k2_rank": 1389,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1389,
+    "k2_rank": 1389,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1389,
+    "k2_rank": 1389,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1389,
+    "k2_rank": 1389,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1389,
+    "k2_rank": 1389,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1389,
+    "k2_rank": 1389,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1389,
+    "k2_rank": 1389,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a23.json.gz": {
+  "sha256": "e4c8ee2b403b2c79ac344a04e907811d49a06e53aacd0986113e9fd5e919b5b4",
+  "ranks": {
+   "5": {
+    "k1_rank": 1157,
+    "k2_rank": 1157,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1157,
+    "k2_rank": 1157,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1157,
+    "k2_rank": 1157,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1157,
+    "k2_rank": 1157,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1157,
+    "k2_rank": 1157,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1157,
+    "k2_rank": 1157,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1157,
+    "k2_rank": 1157,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1157,
+    "k2_rank": 1157,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a29.json.gz": {
+  "sha256": "ed6322fbf5dcd201840084a824493e8bf666607b223a1d6ff763f5f065cb962d",
+  "ranks": {
+   "5": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 798,
+    "k2_rank": 798,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a31.json.gz": {
+  "sha256": "0ef5c1669d91d16031e63299095ae797e1db891db9b490f6da6b0077d41bd320",
+  "ranks": {
+   "5": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 629,
+    "k2_rank": 629,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a37.json.gz": {
+  "sha256": "39ce3187f25b4dca0c6b2668ef9b2dea51cb4f049186fa08aed6f1f544d77c79",
+  "ranks": {
+   "5": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a41.json.gz": {
+  "sha256": "d706263d08a28081046bda6f5f785793bc89e5f4f9d9fb749b89e59c952e8a26",
+  "ranks": {
+   "5": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a43.json.gz": {
+  "sha256": "ac30a26bc4cebfd5f39dcb579ceb0c8c27e7f29184a02918776de27c51b405bb",
+  "ranks": {
+   "5": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a47.json.gz": {
+  "sha256": "fe26b0ab262f4a0a78f0082202537d03d8837bc5fb406e9eef8f77bcc5af2a37",
+  "ranks": {
+   "5": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a53.json.gz": {
+  "sha256": "fc027e2615eb64205bc1c76591f82aa880a898e3e83ba6c5b96c0ea25574b396",
+  "ranks": {
+   "5": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a59.json.gz": {
+  "sha256": "bf258a00bae44d5e9c18170727f74600d537122e2de4c4ac30ff3ce8dde969bd",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a61.json.gz": {
+  "sha256": "15d2ef0b5f394cf5b231da2df353cedf25e4a6d5ff82ed73e675e21dea9fbafa",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a67.json.gz": {
+  "sha256": "78f12783edce75fe4416c6201b023489bfa527b4e941b34508e3a104089f61af",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a71.json.gz": {
+  "sha256": "cc2209c112aa298f371be2c7c7e18db42f1dbbe7f9a6b37a67a79736da02231c",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v13_a73.json.gz": {
+  "sha256": "640ab18e5efa989ac017bc60e7417b9436e8beff5f8926378dc22e2cb1575615",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a19.json.gz": {
+  "sha256": "e5b48a3ef207750acaf38b95730e8205ef9ab36d33fe9bd7b8888c43b3fd00cb",
+  "ranks": {
+   "5": {
+    "k1_rank": 1078,
+    "k2_rank": 1078,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1078,
+    "k2_rank": 1078,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1078,
+    "k2_rank": 1078,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1078,
+    "k2_rank": 1078,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1078,
+    "k2_rank": 1078,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1078,
+    "k2_rank": 1078,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1078,
+    "k2_rank": 1078,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1078,
+    "k2_rank": 1078,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a23.json.gz": {
+  "sha256": "02b804db0ea249d11701ac6c66cb681c595482c1608acf5ff3768868d5601697",
+  "ranks": {
+   "5": {
+    "k1_rank": 887,
+    "k2_rank": 887,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 887,
+    "k2_rank": 887,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 887,
+    "k2_rank": 887,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 887,
+    "k2_rank": 887,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 887,
+    "k2_rank": 887,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 887,
+    "k2_rank": 887,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 887,
+    "k2_rank": 887,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 887,
+    "k2_rank": 887,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a29.json.gz": {
+  "sha256": "0e7f46ec62d41eb4f5cca3b3f55eaf56a33f4b313c61c527db1686473e4d9004",
+  "ranks": {
+   "5": {
+    "k1_rank": 748,
+    "k2_rank": 748,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 748,
+    "k2_rank": 748,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 748,
+    "k2_rank": 748,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 748,
+    "k2_rank": 748,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 748,
+    "k2_rank": 748,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 748,
+    "k2_rank": 748,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 748,
+    "k2_rank": 748,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 748,
+    "k2_rank": 748,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a31.json.gz": {
+  "sha256": "3a186987742bf500305fc0c34e67ace36a4a40a2f664d25c983b7c039fae1305",
+  "ranks": {
+   "5": {
+    "k1_rank": 620,
+    "k2_rank": 620,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 620,
+    "k2_rank": 620,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 620,
+    "k2_rank": 620,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 620,
+    "k2_rank": 620,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 620,
+    "k2_rank": 620,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 620,
+    "k2_rank": 620,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 620,
+    "k2_rank": 620,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 620,
+    "k2_rank": 620,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a37.json.gz": {
+  "sha256": "d93a6ba08a5066b9a4c9c9797271960474c3dfc7acaa9be04239b9bcf7313b3a",
+  "ranks": {
+   "5": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a41.json.gz": {
+  "sha256": "eabb681e122e281f00f746c2bd1c2dc2c448e7b73c5f4c95ce1f29e637360122",
+  "ranks": {
+   "5": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a43.json.gz": {
+  "sha256": "c2f0b9e208905249899455c0e68245fc93912403257d944351b0e7a21395b86b",
+  "ranks": {
+   "5": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a47.json.gz": {
+  "sha256": "eedbb4b714fdd4d21ff0bd0cf4f968e4c35880eef3e792cf5439087887e51509",
+  "ranks": {
+   "5": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a53.json.gz": {
+  "sha256": "1069dc5fe1791c3907bb79a905ba35fb7e2caf3f513688ab031f3ff117b23bc4",
+  "ranks": {
+   "5": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a59.json.gz": {
+  "sha256": "3413244b12632e5371f55797dbef0822350c1fe759c2530a599d4bce1f3321fe",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a61.json.gz": {
+  "sha256": "4a4e8cbf046e5e8c89bce19c23889d25c1940e452f4d6c414a4103662c3606a6",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a67.json.gz": {
+  "sha256": "324cead4d4ab8c024c9df8c9a847121c712e4b6816e83e8143e3a52fd0ce6960",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a71.json.gz": {
+  "sha256": "f0fe8b132b2e0a834b0e025dcda236dc19bc767fc870fd5fc4277793dd83c264",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v17_a73.json.gz": {
+  "sha256": "f202aba54c7bb8816e64fc05bb87c9c9271a5b1e602933b6e6270451e7873f95",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a23.json.gz": {
+  "sha256": "87f25d35a00a1b7ec27b22f231f4bf9d01f88e34d79d7e77f081d7e15ce748bf",
+  "ranks": {
+   "5": {
+    "k1_rank": 790,
+    "k2_rank": 790,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 790,
+    "k2_rank": 790,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 790,
+    "k2_rank": 790,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 790,
+    "k2_rank": 790,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 790,
+    "k2_rank": 790,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 790,
+    "k2_rank": 790,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 790,
+    "k2_rank": 790,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 790,
+    "k2_rank": 790,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a29.json.gz": {
+  "sha256": "baea3aee9258f1d1d92c39ba77582da90ef419077ceeb0d649ae4df64ddae7a3",
+  "ranks": {
+   "5": {
+    "k1_rank": 663,
+    "k2_rank": 663,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 663,
+    "k2_rank": 663,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 663,
+    "k2_rank": 663,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 663,
+    "k2_rank": 663,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 663,
+    "k2_rank": 663,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 663,
+    "k2_rank": 663,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 663,
+    "k2_rank": 663,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 663,
+    "k2_rank": 663,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a31.json.gz": {
+  "sha256": "76aee6495052f931dbe36d09c40ea0b695b8f5cd85a3e34d4e0322679b6dee17",
+  "ranks": {
+   "5": {
+    "k1_rank": 554,
+    "k2_rank": 554,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 554,
+    "k2_rank": 554,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 554,
+    "k2_rank": 554,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 554,
+    "k2_rank": 554,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 554,
+    "k2_rank": 554,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 554,
+    "k2_rank": 554,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 554,
+    "k2_rank": 554,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 554,
+    "k2_rank": 554,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a37.json.gz": {
+  "sha256": "7a06b4c5ab72d58c2b049709a79b1b2a581b7a586e6cefca2269d5df2063263b",
+  "ranks": {
+   "5": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 435,
+    "k2_rank": 435,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a41.json.gz": {
+  "sha256": "1d47b13f00706a6b92f2c6945c35f6638162ce530db2708524916a6046c76baa",
+  "ranks": {
+   "5": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 326,
+    "k2_rank": 326,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a43.json.gz": {
+  "sha256": "d14d99de80ce68c9665f303641267676b5df88148bcc2bf6b70512a11c89d8fb",
+  "ranks": {
+   "5": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a47.json.gz": {
+  "sha256": "8a6e43e18c6f9c22bcc2eea610cca4093ee6dc62c3440eb38dffa51236513416",
+  "ranks": {
+   "5": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a53.json.gz": {
+  "sha256": "2c20539659c669f1af93e89b33738f8f58f58fd314d0c4aa3504b740cae3ebbd",
+  "ranks": {
+   "5": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a59.json.gz": {
+  "sha256": "31df947255a0d614a8bc216b78663367c7067bd91fd601619cda25223b87a35b",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a61.json.gz": {
+  "sha256": "7d031cc726a20c6461988cbbaf8cb8b4855d6cc16eec32ee612375fb7a03e602",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a67.json.gz": {
+  "sha256": "e170e195b130022cd86d1f9fa7c26acc3ce1bfc4015400c16afb1b5a38da7cbe",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a71.json.gz": {
+  "sha256": "2cfeee8fa708c91bec150d867507724377072d3a4e49f006ad5e87a9519bba13",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v19_a73.json.gz": {
+  "sha256": "e2d752aed7f9ee878d90d4bed88c59428b43a6f7281aa0b6df23bb698bd30827",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a29.json.gz": {
+  "sha256": "9b3d6854150598d47428ee60ce45825cf3f55740b7323c1512c5299a1a4bbe9a",
+  "ranks": {
+   "5": {
+    "k1_rank": 538,
+    "k2_rank": 538,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 538,
+    "k2_rank": 538,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 538,
+    "k2_rank": 538,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 538,
+    "k2_rank": 538,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 538,
+    "k2_rank": 538,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 538,
+    "k2_rank": 538,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 538,
+    "k2_rank": 538,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 538,
+    "k2_rank": 538,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a31.json.gz": {
+  "sha256": "3bf7474637dd2732719d00199a5765e134c35d3a273613e590aed2a4645555be",
+  "ranks": {
+   "5": {
+    "k1_rank": 451,
+    "k2_rank": 451,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 451,
+    "k2_rank": 451,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 451,
+    "k2_rank": 451,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 451,
+    "k2_rank": 451,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 451,
+    "k2_rank": 451,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 451,
+    "k2_rank": 451,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 451,
+    "k2_rank": 451,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 451,
+    "k2_rank": 451,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a37.json.gz": {
+  "sha256": "07c6870db7d258a886b25068b666bbdac1d928a98aaf99914836d47a5192129c",
+  "ranks": {
+   "5": {
+    "k1_rank": 376,
+    "k2_rank": 376,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 376,
+    "k2_rank": 376,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 376,
+    "k2_rank": 376,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 376,
+    "k2_rank": 376,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 376,
+    "k2_rank": 376,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 376,
+    "k2_rank": 376,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 376,
+    "k2_rank": 376,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 376,
+    "k2_rank": 376,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a41.json.gz": {
+  "sha256": "fd34310e8fa933a50f45b17e4e3ff72717e92249cf267ac3b4a9bbbdb58ec030",
+  "ranks": {
+   "5": {
+    "k1_rank": 315,
+    "k2_rank": 315,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 315,
+    "k2_rank": 315,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 315,
+    "k2_rank": 315,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 315,
+    "k2_rank": 315,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 315,
+    "k2_rank": 315,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 315,
+    "k2_rank": 315,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 315,
+    "k2_rank": 315,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 315,
+    "k2_rank": 315,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a43.json.gz": {
+  "sha256": "90aa63d758c663bfb48bb9a6057bd7ac917a08c3b7741e2b613ad56006c34c95",
+  "ranks": {
+   "5": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 249,
+    "k2_rank": 249,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a47.json.gz": {
+  "sha256": "746e7d750f1b6fc550df131d0378df4a10d8bdb464dedf81c5b2260fe605e4df",
+  "ranks": {
+   "5": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 173,
+    "k2_rank": 173,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a53.json.gz": {
+  "sha256": "c6e0d4f631183a55e0f55638ee50a305b220b5544bee726ee96d7c6f15670240",
+  "ranks": {
+   "5": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 110,
+    "k2_rank": 110,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a59.json.gz": {
+  "sha256": "de057d3971a93b8f336d7c111e96d4a472c4556a87017d49cf688af66629d518",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a61.json.gz": {
+  "sha256": "1df66e86285afc7eac1ed71217833a10eeb2aa1e775324c87b091a637edc44a0",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a67.json.gz": {
+  "sha256": "407c846b0f137e360e11949c4e9cd333bc90daae01e0dbb24abb5e470b29792e",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a71.json.gz": {
+  "sha256": "816b7ff5050f0a36981516381e2cb330f8345f826f12e09a12ee35352619eb41",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v23_a73.json.gz": {
+  "sha256": "fa0c19d254ec833d6f68574d2f4513024982b6025a97c3f26d2112fd70b2d2e1",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a31.json.gz": {
+  "sha256": "79dc69839ad931aab40284f9a6869e3a4250e749bdbae0dc6234cff6486b9c20",
+  "ranks": {
+   "5": {
+    "k1_rank": 348,
+    "k2_rank": 348,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 348,
+    "k2_rank": 348,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 348,
+    "k2_rank": 348,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 348,
+    "k2_rank": 348,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 348,
+    "k2_rank": 348,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 348,
+    "k2_rank": 348,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 348,
+    "k2_rank": 348,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 348,
+    "k2_rank": 348,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a37.json.gz": {
+  "sha256": "88f777ce6f822e501668a0f5aab3416fd569b9c280e1350c0b5be7e68e2acd5b",
+  "ranks": {
+   "5": {
+    "k1_rank": 281,
+    "k2_rank": 281,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 281,
+    "k2_rank": 281,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 281,
+    "k2_rank": 281,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 281,
+    "k2_rank": 281,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 281,
+    "k2_rank": 281,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 281,
+    "k2_rank": 281,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 281,
+    "k2_rank": 281,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 281,
+    "k2_rank": 281,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a41.json.gz": {
+  "sha256": "0bb223acbe0f4266be8744e12fd72082f49ea4ffa69b76ddc8e34790b6dc5b57",
+  "ranks": {
+   "5": {
+    "k1_rank": 237,
+    "k2_rank": 237,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 237,
+    "k2_rank": 237,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 237,
+    "k2_rank": 237,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 237,
+    "k2_rank": 237,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 237,
+    "k2_rank": 237,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 237,
+    "k2_rank": 237,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 237,
+    "k2_rank": 237,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 237,
+    "k2_rank": 237,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a43.json.gz": {
+  "sha256": "8cf5b9e66b219600e2e8fe04d8983480b573e113bd86db2fe9d1b3643dc187ec",
+  "ranks": {
+   "5": {
+    "k1_rank": 194,
+    "k2_rank": 194,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 194,
+    "k2_rank": 194,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 194,
+    "k2_rank": 194,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 194,
+    "k2_rank": 194,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 194,
+    "k2_rank": 194,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 194,
+    "k2_rank": 194,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 194,
+    "k2_rank": 194,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 194,
+    "k2_rank": 194,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a47.json.gz": {
+  "sha256": "b39403bf540a98ac2d2083907d460875ce80eb26c75027b106f63b2a224df278",
+  "ranks": {
+   "5": {
+    "k1_rank": 149,
+    "k2_rank": 149,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 149,
+    "k2_rank": 149,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 149,
+    "k2_rank": 149,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 149,
+    "k2_rank": 149,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 149,
+    "k2_rank": 149,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 149,
+    "k2_rank": 149,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 149,
+    "k2_rank": 149,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 149,
+    "k2_rank": 149,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a53.json.gz": {
+  "sha256": "ba6721658a7f350ad1d9426a47e295b7410610f48b3b76acd93278cd61e5330c",
+  "ranks": {
+   "5": {
+    "k1_rank": 109,
+    "k2_rank": 109,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 109,
+    "k2_rank": 109,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 109,
+    "k2_rank": 109,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 109,
+    "k2_rank": 109,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 109,
+    "k2_rank": 109,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 109,
+    "k2_rank": 109,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 109,
+    "k2_rank": 109,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 109,
+    "k2_rank": 109,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a59.json.gz": {
+  "sha256": "e98e8dba8648a891621a086c0b11f48d0609fe02a20038a945d12a590072b434",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a61.json.gz": {
+  "sha256": "92a49d600e3fce09489b1a70a857d0627bc01800652542a5e0ee98017a10fcfe",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a67.json.gz": {
+  "sha256": "4a899307b06930612b9df999f3deaf607721a9e18e479ccfef46ef52ad720a59",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a71.json.gz": {
+  "sha256": "53a74d0ef14ad8cd9ec30751d05fd804796ab24eee1e8925953bdc0bfa8b5c47",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v29_a73.json.gz": {
+  "sha256": "74ac97e4e20c10d0c4dd5c40c8016637d786aa2f4141f6b4dbd8cf57ab666c29",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v31_a37.json.gz": {
+  "sha256": "e13d2e2055d428a0c5a47f226cab20fb0c6e0b25ae855722700570a9db7a0c9e",
+  "ranks": {
+   "5": {
+    "k1_rank": 257,
+    "k2_rank": 257,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 257,
+    "k2_rank": 257,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 257,
+    "k2_rank": 257,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 257,
+    "k2_rank": 257,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 257,
+    "k2_rank": 257,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 257,
+    "k2_rank": 257,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 257,
+    "k2_rank": 257,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 257,
+    "k2_rank": 257,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v31_a41.json.gz": {
+  "sha256": "64f26e93ba32f6e0562072a670d53bffd22eb090926248a04b1a51606a00ba8c",
+  "ranks": {
+   "5": {
+    "k1_rank": 216,
+    "k2_rank": 216,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 216,
+    "k2_rank": 216,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 216,
+    "k2_rank": 216,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 216,
+    "k2_rank": 216,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 216,
+    "k2_rank": 216,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 216,
+    "k2_rank": 216,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 216,
+    "k2_rank": 216,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 216,
+    "k2_rank": 216,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v31_a43.json.gz": {
+  "sha256": "fd7b0b7352f4484e3496486fb1efeaba199d221b03113aeafdf7a63557d1c9f0",
+  "ranks": {
+   "5": {
+    "k1_rank": 176,
+    "k2_rank": 176,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 176,
+    "k2_rank": 176,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 176,
+    "k2_rank": 176,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 176,
+    "k2_rank": 176,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 176,
+    "k2_rank": 176,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 176,
+    "k2_rank": 176,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 176,
+    "k2_rank": 176,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 176,
+    "k2_rank": 176,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v31_a47.json.gz": {
+  "sha256": "60ded8f3b6c8ead6e27b35b17106727f0b37523b42f9de31f73e0f70e8fc1b82",
+  "ranks": {
+   "5": {
+    "k1_rank": 137,
+    "k2_rank": 137,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 137,
+    "k2_rank": 137,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 137,
+    "k2_rank": 137,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 137,
+    "k2_rank": 137,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 137,
+    "k2_rank": 137,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 137,
+    "k2_rank": 137,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 137,
+    "k2_rank": 137,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 137,
+    "k2_rank": 137,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v31_a53.json.gz": {
+  "sha256": "fc9005dd41f8df07276dbea40a4714e962a32c3f52f4f5a2aa492bcc557954b6",
+  "ranks": {
+   "5": {
+    "k1_rank": 101,
+    "k2_rank": 101,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 101,
+    "k2_rank": 101,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 101,
+    "k2_rank": 101,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 101,
+    "k2_rank": 101,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 101,
+    "k2_rank": 101,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 101,
+    "k2_rank": 101,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 101,
+    "k2_rank": 101,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 101,
+    "k2_rank": 101,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v31_a59.json.gz": {
+  "sha256": "80ffc0d1ced84fd4431493ea46d5f28f5af65cffc8b3abc1cef3f36064231f7f",
+  "ranks": {
+   "5": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 67,
+    "k2_rank": 67,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v31_a61.json.gz": {
+  "sha256": "ca7a2e470b2788518d936b915010c5409cdaf43faca165e64ee4bdde5e16d949",
+  "ranks": {
+   "5": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 45,
+    "k2_rank": 45,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v31_a67.json.gz": {
+  "sha256": "7a45eeb61f5bdc8a5716e294e58fb5b190df3a57e7259971cc7654fe06fa0c6c",
+  "ranks": {
+   "5": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 20,
+    "k2_rank": 20,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v31_a71.json.gz": {
+  "sha256": "afd3731a4b2ed11860e0c25ce8e88a2fd01ec94b67ff97cd26e77fb7970cf317",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v31_a73.json.gz": {
+  "sha256": "783e1934501fde6a7659c495923bb22fc3b026490b854c350baa21b111dd28b2",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v37_a41.json.gz": {
+  "sha256": "eb49853d02a9168440d6df3922e6e6bbd5f4f4f2538fce173c96f76ea2ddd323",
+  "ranks": {
+   "5": {
+    "k1_rank": 169,
+    "k2_rank": 169,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 169,
+    "k2_rank": 169,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 169,
+    "k2_rank": 169,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 169,
+    "k2_rank": 169,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 169,
+    "k2_rank": 169,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 169,
+    "k2_rank": 169,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 169,
+    "k2_rank": 169,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 169,
+    "k2_rank": 169,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v37_a43.json.gz": {
+  "sha256": "beef16b400976b5670a9f8328a5aab5d798a2167386f6020f02d4f1d5e195a0e",
+  "ranks": {
+   "5": {
+    "k1_rank": 135,
+    "k2_rank": 135,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 135,
+    "k2_rank": 135,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 135,
+    "k2_rank": 135,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 135,
+    "k2_rank": 135,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 135,
+    "k2_rank": 135,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 135,
+    "k2_rank": 135,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 135,
+    "k2_rank": 135,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 135,
+    "k2_rank": 135,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v37_a47.json.gz": {
+  "sha256": "fc3f7815d215312f351ed3b404ce18d971186b61c1daa5e5a803d9c5e09a2a3d",
+  "ranks": {
+   "5": {
+    "k1_rank": 104,
+    "k2_rank": 104,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 104,
+    "k2_rank": 104,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 104,
+    "k2_rank": 104,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 104,
+    "k2_rank": 104,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 104,
+    "k2_rank": 104,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 104,
+    "k2_rank": 104,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 104,
+    "k2_rank": 104,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 104,
+    "k2_rank": 104,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v37_a53.json.gz": {
+  "sha256": "4d0380e151d85fba7b25dea3fd93428af5acc5f0c08ac1cdcf3a2affe28186b0",
+  "ranks": {
+   "5": {
+    "k1_rank": 75,
+    "k2_rank": 75,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 75,
+    "k2_rank": 75,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 75,
+    "k2_rank": 75,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 75,
+    "k2_rank": 75,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 75,
+    "k2_rank": 75,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 75,
+    "k2_rank": 75,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 75,
+    "k2_rank": 75,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 75,
+    "k2_rank": 75,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v37_a59.json.gz": {
+  "sha256": "d431d15bca4f1380295b888dd6790ffdd5a9b30692219b3880fbb65aa117725c",
+  "ranks": {
+   "5": {
+    "k1_rank": 53,
+    "k2_rank": 53,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 53,
+    "k2_rank": 53,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 53,
+    "k2_rank": 53,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 53,
+    "k2_rank": 53,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 53,
+    "k2_rank": 53,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 53,
+    "k2_rank": 53,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 53,
+    "k2_rank": 53,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 53,
+    "k2_rank": 53,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v37_a61.json.gz": {
+  "sha256": "0674a7adbd69c8e82480e6628a7a8c57eded2330eb0684466b339161778125fc",
+  "ranks": {
+   "5": {
+    "k1_rank": 34,
+    "k2_rank": 34,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 34,
+    "k2_rank": 34,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 34,
+    "k2_rank": 34,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 34,
+    "k2_rank": 34,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 34,
+    "k2_rank": 34,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 34,
+    "k2_rank": 34,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 34,
+    "k2_rank": 34,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 34,
+    "k2_rank": 34,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v37_a67.json.gz": {
+  "sha256": "d8756df839933baa908073318342b38efaf905e5587269533924066371e41c28",
+  "ranks": {
+   "5": {
+    "k1_rank": 19,
+    "k2_rank": 19,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 19,
+    "k2_rank": 19,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 19,
+    "k2_rank": 19,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 19,
+    "k2_rank": 19,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 19,
+    "k2_rank": 19,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 19,
+    "k2_rank": 19,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 19,
+    "k2_rank": 19,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 19,
+    "k2_rank": 19,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v37_a71.json.gz": {
+  "sha256": "ec520e692f013c6416db772f7c27e8014ab3a9f831c7884c2b59d19b18232ddd",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v37_a73.json.gz": {
+  "sha256": "3cfcf37698563e0319aab88fb38483a375c9940f0f77cf692fd32e40aaf402e9",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v41_a43.json.gz": {
+  "sha256": "05d99b55bdf498265ec2605ba83c18feba82e6ac0e224c3cf1154a0a7feb0f0d",
+  "ranks": {
+   "5": {
+    "k1_rank": 117,
+    "k2_rank": 117,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 117,
+    "k2_rank": 117,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 117,
+    "k2_rank": 117,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 117,
+    "k2_rank": 117,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 117,
+    "k2_rank": 117,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 117,
+    "k2_rank": 117,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 117,
+    "k2_rank": 117,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 117,
+    "k2_rank": 117,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v41_a47.json.gz": {
+  "sha256": "19f8e86f145985f775cb0243bcdc2a8a397a2248250749c06df269d735ba5a99",
+  "ranks": {
+   "5": {
+    "k1_rank": 89,
+    "k2_rank": 89,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 89,
+    "k2_rank": 89,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 89,
+    "k2_rank": 89,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 89,
+    "k2_rank": 89,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 89,
+    "k2_rank": 89,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 89,
+    "k2_rank": 89,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 89,
+    "k2_rank": 89,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 89,
+    "k2_rank": 89,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v41_a53.json.gz": {
+  "sha256": "3f1b4c3a2bc9facd8db73119f86e506b49800bb3e9e1cbc3814b7fe35d6d840c",
+  "ranks": {
+   "5": {
+    "k1_rank": 63,
+    "k2_rank": 63,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 63,
+    "k2_rank": 63,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 63,
+    "k2_rank": 63,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 63,
+    "k2_rank": 63,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 63,
+    "k2_rank": 63,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 63,
+    "k2_rank": 63,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 63,
+    "k2_rank": 63,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 63,
+    "k2_rank": 63,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v41_a59.json.gz": {
+  "sha256": "cb45633198e0fa219f26fb1d818557597e14292c3429f587e307447d7adb4a46",
+  "ranks": {
+   "5": {
+    "k1_rank": 44,
+    "k2_rank": 44,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 44,
+    "k2_rank": 44,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 44,
+    "k2_rank": 44,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 44,
+    "k2_rank": 44,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 44,
+    "k2_rank": 44,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 44,
+    "k2_rank": 44,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 44,
+    "k2_rank": 44,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 44,
+    "k2_rank": 44,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v41_a61.json.gz": {
+  "sha256": "c9568d501fcaf3970a15a6b655418bf766637a58c4a107fb3e0b0e54a898773f",
+  "ranks": {
+   "5": {
+    "k1_rank": 30,
+    "k2_rank": 30,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 30,
+    "k2_rank": 30,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 30,
+    "k2_rank": 30,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 30,
+    "k2_rank": 30,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 30,
+    "k2_rank": 30,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 30,
+    "k2_rank": 30,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 30,
+    "k2_rank": 30,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 30,
+    "k2_rank": 30,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v41_a67.json.gz": {
+  "sha256": "2e6831844bc0aeaedc60afa37c3e372163d4a9cf50d72f02cacbfa1ca8ac532b",
+  "ranks": {
+   "5": {
+    "k1_rank": 18,
+    "k2_rank": 18,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 18,
+    "k2_rank": 18,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 18,
+    "k2_rank": 18,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 18,
+    "k2_rank": 18,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 18,
+    "k2_rank": 18,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 18,
+    "k2_rank": 18,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 18,
+    "k2_rank": 18,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 18,
+    "k2_rank": 18,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v41_a71.json.gz": {
+  "sha256": "ce95c1b8d44be052a49203a61876db01a3001da361142bc9a692124805bfe76f",
+  "ranks": {
+   "5": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 6,
+    "k2_rank": 6,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v41_a73.json.gz": {
+  "sha256": "05ae4cec9bf445c9bbc6a0b575d09bbb8c9aa8ad14b83acea313bed1c00c94e6",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v43_a47.json.gz": {
+  "sha256": "be54764574e1f1995a96e32cc91a7514564b803e665715332cbb32d42ba6a293",
+  "ranks": {
+   "5": {
+    "k1_rank": 81,
+    "k2_rank": 81,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 81,
+    "k2_rank": 81,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 81,
+    "k2_rank": 81,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 81,
+    "k2_rank": 81,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 81,
+    "k2_rank": 81,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 81,
+    "k2_rank": 81,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 81,
+    "k2_rank": 81,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 81,
+    "k2_rank": 81,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v43_a53.json.gz": {
+  "sha256": "70d6a52506b9827fe81fed97b3e8242d7f9b8c02ae9d69a893f8c50065aefd58",
+  "ranks": {
+   "5": {
+    "k1_rank": 56,
+    "k2_rank": 56,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 56,
+    "k2_rank": 56,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 56,
+    "k2_rank": 56,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 56,
+    "k2_rank": 56,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 56,
+    "k2_rank": 56,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 56,
+    "k2_rank": 56,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 56,
+    "k2_rank": 56,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 56,
+    "k2_rank": 56,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v43_a59.json.gz": {
+  "sha256": "bb84ffb200d909de7f06fcf2cc994a7c8d9c8affd80937ff59e5af4875072a79",
+  "ranks": {
+   "5": {
+    "k1_rank": 38,
+    "k2_rank": 38,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 38,
+    "k2_rank": 38,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 38,
+    "k2_rank": 38,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 38,
+    "k2_rank": 38,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 38,
+    "k2_rank": 38,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 38,
+    "k2_rank": 38,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 38,
+    "k2_rank": 38,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 38,
+    "k2_rank": 38,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v43_a61.json.gz": {
+  "sha256": "082abb8400a2f0e7f3d75d985d6296098181561f9ea7a8d64472c5770852ad0c",
+  "ranks": {
+   "5": {
+    "k1_rank": 26,
+    "k2_rank": 26,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 26,
+    "k2_rank": 26,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 26,
+    "k2_rank": 26,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 26,
+    "k2_rank": 26,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 26,
+    "k2_rank": 26,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 26,
+    "k2_rank": 26,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 26,
+    "k2_rank": 26,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 26,
+    "k2_rank": 26,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v43_a67.json.gz": {
+  "sha256": "da52ca11b9a7dd40199e3e848ee80e1f4616b0dcc36e69234f60b9449cbe3e1d",
+  "ranks": {
+   "5": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v43_a71.json.gz": {
+  "sha256": "6b40b8fdb461e6ba0442d61db5b4442149cf5c7d59d7dca6cd6234d234b89e54",
+  "ranks": {
+   "5": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v43_a73.json.gz": {
+  "sha256": "76070c141eaad8d66aedbf24d402e07260d8af85fc3f4945d4d90a883d67fdf8",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v47_a53.json.gz": {
+  "sha256": "37c5a277c727fb2a183513c1d0e944f1678ae4b79f8589859ca9871a939dd3b9",
+  "ranks": {
+   "5": {
+    "k1_rank": 47,
+    "k2_rank": 47,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 47,
+    "k2_rank": 47,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 47,
+    "k2_rank": 47,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 47,
+    "k2_rank": 47,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 47,
+    "k2_rank": 47,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 47,
+    "k2_rank": 47,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 47,
+    "k2_rank": 47,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 47,
+    "k2_rank": 47,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v47_a59.json.gz": {
+  "sha256": "baea3106d5f78da80f1c8e5d6509f952e6f71a1fdcdaa67aeb38c25e5eb39869",
+  "ranks": {
+   "5": {
+    "k1_rank": 33,
+    "k2_rank": 33,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 33,
+    "k2_rank": 33,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 33,
+    "k2_rank": 33,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 33,
+    "k2_rank": 33,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 33,
+    "k2_rank": 33,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 33,
+    "k2_rank": 33,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 33,
+    "k2_rank": 33,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 33,
+    "k2_rank": 33,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v47_a61.json.gz": {
+  "sha256": "c41fb896554d13bfa7bb70a8452df5792109ba4884480399d64fd71fc678a71d",
+  "ranks": {
+   "5": {
+    "k1_rank": 22,
+    "k2_rank": 22,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 22,
+    "k2_rank": 22,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 22,
+    "k2_rank": 22,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 22,
+    "k2_rank": 22,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 22,
+    "k2_rank": 22,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 22,
+    "k2_rank": 22,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 22,
+    "k2_rank": 22,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 22,
+    "k2_rank": 22,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v47_a67.json.gz": {
+  "sha256": "57c8c8e478afc068cf23a7b8267fbf53d95d0737f42dfec74c5fe1bec25698db",
+  "ranks": {
+   "5": {
+    "k1_rank": 13,
+    "k2_rank": 13,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 13,
+    "k2_rank": 13,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 13,
+    "k2_rank": 13,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 13,
+    "k2_rank": 13,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 13,
+    "k2_rank": 13,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 13,
+    "k2_rank": 13,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 13,
+    "k2_rank": 13,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 13,
+    "k2_rank": 13,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v47_a71.json.gz": {
+  "sha256": "7f587061d875477cdafc3574674d0c3cc059791dc366ea42e2e77db8bcd8f68d",
+  "ranks": {
+   "5": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v47_a73.json.gz": {
+  "sha256": "d293dba008743df5c0c4dbee02f0b50711263e5a122fdba2cc1d45914d2fe4f0",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v53_a59.json.gz": {
+  "sha256": "d16364edb55ce0fc4389bf0c3f7f0458c5f3fed54f29e7b7bea7adf4d30f953e",
+  "ranks": {
+   "5": {
+    "k1_rank": 25,
+    "k2_rank": 25,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 25,
+    "k2_rank": 25,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 25,
+    "k2_rank": 25,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 25,
+    "k2_rank": 25,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 25,
+    "k2_rank": 25,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 25,
+    "k2_rank": 25,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 25,
+    "k2_rank": 25,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 25,
+    "k2_rank": 25,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v53_a61.json.gz": {
+  "sha256": "ec90976c02b81feb5d9a5d5aed6f8dd43f412fe09b45dade19da6307ad906866",
+  "ranks": {
+   "5": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 16,
+    "k2_rank": 16,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v53_a67.json.gz": {
+  "sha256": "70def9f569f62dc57b768570b944bcbc00aa5b294cfff2ded36503715193326e",
+  "ranks": {
+   "5": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v53_a71.json.gz": {
+  "sha256": "c1bdc06f04fbea3245c83e61b9de11d50a69ffcfe59e52d2f165dc2139067837",
+  "ranks": {
+   "5": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v53_a73.json.gz": {
+  "sha256": "b298e37c9688a2388448bcf89850281fe6dbb9183683328413748dfca2d79a2e",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v59_a61.json.gz": {
+  "sha256": "34c2999d48a3d31f886abcd8f681c4ee4e8a576bdd810bccc5b3d8634115b86b",
+  "ranks": {
+   "5": {
+    "k1_rank": 14,
+    "k2_rank": 14,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 14,
+    "k2_rank": 14,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 14,
+    "k2_rank": 14,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 14,
+    "k2_rank": 14,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 14,
+    "k2_rank": 14,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 14,
+    "k2_rank": 14,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 14,
+    "k2_rank": 14,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 14,
+    "k2_rank": 14,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v59_a67.json.gz": {
+  "sha256": "8aebf3a4f9b87a6ce4ad55fce6d33892953905e427f872a999b37279c5ebc5ee",
+  "ranks": {
+   "5": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v59_a71.json.gz": {
+  "sha256": "a03d20af42e5d48666a2b862f8dc0a0c22e6e080b3f35143fabb7132c5def804",
+  "ranks": {
+   "5": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v59_a73.json.gz": {
+  "sha256": "f4f78ede58acae02d15c82482c8d25e5b3474f02a45fd160113b2069b5757e40",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v61_a67.json.gz": {
+  "sha256": "09e220d80aefbcda27223dcae6f725cfa0a8b6a1fc58e439aa8076300336940c",
+  "ranks": {
+   "5": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 9,
+    "k2_rank": 9,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v61_a71.json.gz": {
+  "sha256": "253f263de6004701d3d8991f3604edcef3fb28a1167cd95e7a8d2d65df14a7fa",
+  "ranks": {
+   "5": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v61_a73.json.gz": {
+  "sha256": "7b28005cc29073d3873c46781323d111dd7288714d63a427e6ddd70619dd2ad1",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v67_a71.json.gz": {
+  "sha256": "79691860299770527cf6473441c143c10da4a7321e3cbf97299158ad39f6a98c",
+  "ranks": {
+   "5": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 5,
+    "k2_rank": 5,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v67_a73.json.gz": {
+  "sha256": "8deb9244c0b90da4f25a82cc59b419740390e9e259ced42efb506dd961ad3ce9",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ },
+ "pair_v71_a73.json.gz": {
+  "sha256": "e12cb93eccb0668ef95eac04898ca588e494a0f57df98d9bd6bfb890e57db72c",
+  "ranks": {
+   "5": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "7": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "11": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "13": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "131": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "10007": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "1073741789": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   },
+   "2147483647": {
+    "k1_rank": 1,
+    "k2_rank": 1,
+    "lg_pass": true
+   }
+  }
+ }
+}

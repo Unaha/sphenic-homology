@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "sphenic-homology: exact counting-function homology of the sphenic window complex, with machine-verifiable certificates"
+authors:
+  - family-names: Rich
+    given-names: Lee
+    affiliation: "The Improbability Lab"
+date-released: 2026-07-02
+license: MIT
+repository-code: "https://github.com/Unaha/sphenic-homology"
+keywords:
+  - combinatorics
+  - number theory
+  - simplicial homology
+  - oriented hypergraphs
+  - reproducible research
