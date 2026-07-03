@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
+message: "If you use this repository, please cite the paper it supports (preferred-citation below); the software archive DOI is also given."
 title: "sphenic-homology: exact counting-function homology of the sphenic window complex, with machine-verifiable certificates"
 authors:
   - family-names: Rich
@@ -14,4 +14,34 @@ keywords:
   - simplicial homology
   - oriented hypergraphs
   - reproducible research
-doi: 10.5281/zenodo.21135222
+doi: 10.5281/zenodo.21135221
+preferred-citation:
+  type: article
+  title: "Exact prime-count homology of the sphenic window complex"
+  authors:
+    - family-names: Rich
+      given-names: Lee
+  year: 2026
+  doi: 10.5281/zenodo.21171567
+references:
+  - type: article
+    title: "The -1-eigenspace of the coprime graph of integers: prime-cube modes and an exact multiplicity"
+    authors:
+      - family-names: Rich
+        given-names: Lee
+    year: 2026
+    doi: 10.5281/zenodo.20933665
+  - type: article
+    title: "The -1-eigenvalue multiplicity of the coprime graph: a conditional sublinear law"
+    authors:
+      - family-names: Rich
+        given-names: Lee
+    year: 2026
+    doi: 10.5281/zenodo.21169867
+  - type: article
+    title: "A balance-mode structure theorem for the unsigned kernel of the sphenic window complex"
+    authors:
+      - family-names: Rich
+        given-names: Lee
+    year: 2026
+    doi: 10.5281/zenodo.21172540
