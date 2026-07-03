@@ -1,0 +1,412 @@
+\documentclass[11pt,reqno]{amsart}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage[margin=1in]{geometry}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+
+\theoremstyle{plain}
+\newtheorem*{structthm}{Structure theorem (unsigned kernel; certified perimeter)}
+\newtheorem*{lemA}{Lemma A (modes are cycles)}
+\newtheorem*{lemB}{Lemma B (cone split at the least vertex)}
+\newtheorem*{lemC}{Lemma C (graded reduction)}
+\newtheorem*{RDL}{Realizable Decomposition Lemma (the crux)}
+\newtheorem*{onestep}{One-step elimination lemma}
+\theoremstyle{definition}
+\newtheorem*{hypLG}{Hypothesis (LG)$_{v,a}$}
+
+\newcommand{\rank}{\operatorname{rank}}
+\newcommand{\elem}{\operatorname{elem}}
+\newcommand{\ru}{\operatorname{ru}}
+\newcommand{\cpc}{\operatorname{cap}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\eO}{\mathcal{O}}
+\newcommand{\Zbal}{Z_{\mathrm{bal}}}
+\newcommand{\dbu}{\partial^{u}}
+\newcommand{\dd}{\delta}
+\newcommand{\st}{\textsc}
+
+\begin{document}
+
+\title[A balance-mode structure theorem for the unsigned kernel]
+{A balance-mode structure theorem for the unsigned kernel\\of the sphenic window complex}
+\author{Lee Rich}
+\thanks{ORCID: \href{https://orcid.org/0009-0004-8559-5177}{0009-0004-8559-5177}.
+The Improbability Lab. \emph{Working manuscript, 2 July 2026.}}
+\email{leemjrich@gmail.com}
+\date{2 July 2026}
+
+\begin{abstract}
+Let $C$ be the sphenic window complex at level $N$: the $2$-complex whose triangles are the
+squarefree three-prime integers $pqr$ in $W=(N/2,N]$, with edges the co-occurring prime pairs
+and vertices the primes. Let $\dbu$ be its \emph{unsigned} boundary, the all-positive incidence
+map, which presents $C$ as an oriented hypergraph with every adjacency negative in the sense of
+Rusnak. We describe the rational kernel of $\dbu$ as a span of explicit \emph{balance modes}
+fibered over vertex-pairs, and certify it at an explicit finite perimeter. For the five bundled
+complexes $N\in\{50000,100000,200000,300000,500000\}$, certified over $\Q$ and an eight-prime
+battery at all five $N$ (and over every prime characteristic outside $\{2,3\}$ on the two-stage
+integer-certified subset $N\in\{10^5,2\times10^5\}$),
+\[
+\ker\dbu=\operatorname{span}\bigl\{\,m_{a,b,z}=\textstyle\sum_g z_g([a\cup g]-[b\cup g]):
+a<b\text{ prime},\ z\in\Zbal(L_{a,b})\,\bigr\},
+\]
+where $L_{a,b}$ is the common link graph of the pair and $\Zbal$ its balance kernel (the
+Zaslavsky even-circle cycle space). Consequently, at that perimeter, $e:=\dim\ker\dbu$ is a
+fibered balance count, $\ru=F-e$, the frustration term is $\dd=\elem-e$, and the canonical
+density $\kappa=(b_1-\dd)/V$ is determined by link-graph balance and connectivity combinatorics.
+The characteristics $2$ and $3$ are exceptional and exactly understood: over $\F_2$ the kernel
+is $\elem$, over $\F_3$ it is $e+1$. The generators are the classified balanced and balanceable
+circuits of the oriented-hypergraph program of Rusnak \cite{Rusnak2013} and of
+Rusnak--Li--Xu--Yan--Zhu \cite{RLXYZ2022}; the apparently unstated \emph{spanning} statement
+addresses their declared open problem. We prove the reduction unconditionally, reduce the
+remaining content to a single finite leakage-gauge condition (LG), and certify (LG) at the
+perimeter above. The all-$N$ form is \st{[open]}, with the band localization proved and a
+richness program stated.
+\end{abstract}
+
+\maketitle
+
+\section{The unsigned kernel, and the statement at the certified perimeter}\label{sec:stmt}
+
+\subsection{The object}
+The complex $C$ is as in the companion Paper~3: triangles are the sphenics $pqr\in(N/2,N]$, edges
+the co-occurring prime pairs, vertices the primes. The signed boundary $\partial_2$ has rank
+$F-\elem$ by the slab identity. This paper is about the \emph{unsigned} boundary
+\[
+\dbu[p,q,r]=[q,r]+[p,r]+[p,q]\qquad(\text{all coefficients }+1),
+\]
+the incidence map of $C$ as an oriented hypergraph with all-positive incidence, equivalently all
+adjacencies negative in Rusnak's dictionary. Over a field of characteristic $\ne2$ the two
+boundaries differ, and their nullities differ by the frustration term
+\[
+\dd:=\ru-\rank\partial_2=(F-e)-(F-\elem)=\elem-e,\qquad e:=\dim\ker\dbu,\ \ \ru:=\rank\dbu.
+\]
+The term $\dd$ is the one quantity in the whole coprime-graph arc that has resisted a rank-free
+closed form; the point of the structure theorem is to express $e$, hence $\dd$, as a balance
+count.
+
+\subsection{The fiber objects}
+For a vertex $v$, the \emph{link} $L_v$ is the graph on primes with an edge $\{x,y\}$ whenever
+$\{v,x,y\}$ is a triangle of $C$. For a prime pair $\{a,b\}$, the \emph{common link} $L_{a,b}$
+is the graph whose edges $g=\{x,y\}$ satisfy that both $\{a,x,y\}$ and $\{b,x,y\}$ are triangles.
+Signing every adjacency negative (equivalently, the all-positive incidence), the \emph{balance
+kernel} $\Zbal(G)$ is the Zaslavsky even-circle cycle space \cite{Zaslavsky}: the space spanned
+by the even circles and the odd-circle barbells of $G$, the cycle space of the signed graphic
+matroid of the all-negative signing. For each pair and each $z\in\Zbal(L_{a,b})$, the
+\emph{balance mode} is $m_{a,b,z}=\sum_g z_g([a\cup g]-[b\cup g])$, with $g$ ranging over the
+edges of $L_{a,b}$.
+
+\subsection{The theorem, scoped}
+\begin{structthm}
+\textnormal{\st{[banked as C-0746 at the certified perimeter]}}\ \ For each of the five bundled
+complexes $N\in\{50000,100000,200000,300000,500000\}$, certified over $\Q$ and an eight-prime
+battery at all five $N$, and over every prime characteristic $p\notin\{2,3\}$ on the two-stage
+integer-certified subset $N\in\{10^5,2\times10^5\}$,
+\[
+\ker\dbu=\operatorname{span}\{\,m_{a,b,z}: a<b\text{ prime},\ z\in\Zbal(L_{a,b})\,\}.
+\]
+\end{structthm}
+\noindent We state the scope plainly. The inclusion $\supseteq$ (the modes are kernel vectors)
+is an unconditional lemma for all $N$ (\S\ref{sec:core}); the reduction of $\subseteq$ to a
+finite condition (LG) is unconditional for all $N$ (\S\ref{sec:peel}). What is verified rather
+than proved in general is (LG) itself, verified at the five $N$ by an exact certificate stack
+(\S\ref{sec:cert}). The characteristic scope matches the certificate inventory exactly: the
+leakage-gauge two-rank test over an eight-prime battery covers all five $N$ and pins the kernel
+over $\Q$, while the all-characteristic closure (no bad-prime window) is certified by the
+two-stage integer certificates only on $N\in\{10^5,2\times10^5\}$; we do not claim all
+characteristics at the three larger $N$, where those integer certificates are not yet in the
+repository. The all-$N$ statement is open (\S\ref{sec:allN}), and every downstream consequence
+inherits the certified-perimeter scope.
+
+\section{The proved core: modes are cycles, and the cone split}\label{sec:core}
+
+\begin{lemA}
+\textnormal{\st{[proved, all $N$]}}\ \ For any prime pair $\{a,b\}$ and any
+$z\in\Zbal(L_{a,b})$ (zero unsigned vertex sums on $L_{a,b}$), $\dbu m_{a,b,z}=0$.
+\end{lemA}
+\begin{proof}
+Examine each facet coefficient of $\dbu m$. A facet $\{x,y\}$ interior to an edge $g$ receives
+$z_g$ from $[a\cup g]$ and $z_g$ from $[b\cup g]$ with the mode's sign difference, so the
+coefficients cancel. A facet $\{a,u\}$ receives $\sum_{g\ni u}z_g$, the unsigned vertex sum of
+$z$ at $u$, which is zero by balance; likewise $\{b,u\}$. The facet $\{a,b\}$ never occurs.
+Hence $\dbu m=0$.
+\end{proof}
+
+Filter the kernel by least vertex. For a vertex $v$ let $C_{\ge v}$ be the subcomplex on
+vertices $\ge v$, and let $w\in\ker\dbu|_{C_{\ge v}}$ have least vertex $v$. Split
+$\operatorname{supp}(w)=A\sqcup B$, $A$ the cells containing $v$, and write $w_A$ for the tail
+chain of the $A$-cells.
+\begin{lemB}
+\textnormal{\st{[proved, all $N$; characteristic $\ne2$]}}\ \ \emph{(i)}
+$w_A\in\Zbal(L_v^{\ge v})$ (the $v$-facet block); \emph{(ii)} $w_A=-\dbu(u)$ exactly, where $u$
+is the $B$-part of $w$ (the $v$-free block, both sides supported on $L_v$-edges); \emph{(iii)}
+if $B=\varnothing$ then $w=0$.
+\end{lemB}
+\noindent Writing $W_v$ for the space of $A$-parts of kernel vectors of $C_{\ge v}$ with least
+vertex $v$, we obtain $W_v=\Zbal(L_v^{\ge v})\cap\dbu(\text{chains of }C_{>v})$. The second
+condition is not decorative: the naive version without it is false, with a measured deficit of
+$1276$ at $N=10^5$; any proof ignoring the boundary witness is refuted by that counterexample.
+
+\begin{lemC}
+\textnormal{\st{[proved, all $N$]}}\ \ The $A$-part map identifies the graded quotient
+$K(C_{\ge v})/K(C_{>v})$ with $W_v$, and the modes with $a=v$ have $A$-parts exactly
+$\sum_{b>v}\Zbal(L_{v,b}^{\ge v})\subseteq W_v$. Hence, by downward induction on the finitely
+many least-vertex levels (primes up to roughly $N^{1/3}$), the structure theorem for $C_{\ge v}$
+follows from the theorem for $C_{>v}$ together with the following.
+\end{lemC}
+\begin{RDL}
+$W_v\subseteq\sum_{b>v}\Zbal(L_{v,b}^{\ge v})$ at every level: every balanced, link-supported
+boundary of the upper subcomplex splits into pair-fiber balance cycles.
+\end{RDL}
+\noindent Lemmas A, B and C are unconditional; the whole remaining content is the crux, which
+\S\ref{sec:peel} reduces to a finite gauge condition.
+
+\section{The peeling architecture, with corrected bookkeeping}\label{sec:peel}
+
+We prove the crux under a finite hypothesis (LG). The essential correction over earlier attempts
+is the bookkeeping: one does \emph{not} hold the witness boundary fixed while removing a layer;
+each peeling step subtracts a certified element $q$ from the current boundary, so the boundary
+itself changes as $h\mapsto h-q$.
+
+\subsection{Notation}
+Order vertices by prime value. For $a>v$ let $X_a$ be the cells with all vertices $\ge a$, and
+$a^+$ the next vertex. For $b\ge a$ let $L_{v,b}^a$ be the common link on vertices $\ge a$ with
+$b$ removed, and $T_v^a=\sum_{b\ge a}\Zbal(L_{v,b}^a)$, so $T_v^{a_0}=T$, the target pair-fiber
+span ($a_0$ the first vertex above $v$). Let $L_a$ be the link of $a$ inside $X_a$ and
+$T_a=\sum_{c>a}\Zbal(L_{a,c})$. For $u\in C_2(X_a)$, its $a$-tail $\ell_a(u)$ keeps the tail
+$[x,y]$ of each cell $[a,x,y]$ with least vertex $a$ and sends all other cells to $0$.
+
+\subsection{Mode halves and the leakage tail}
+For $z\in\Zbal(L_{v,b}^a)$, the $C'$-half of the full $v$-mode is
+$R_{v,b}(z)=-\sum_g z_g[b\cup g]$, and balance gives $\dbu R_{v,b}(z)=-z$ on the link edges.
+Summing over $b$, for $\mathbf z=(z_b)$ one gets $R(\mathbf z)$ with $\dbu R(\mathbf z)=-q(\mathbf
+z)$, where $q(\mathbf z)=\sum_b z_b\in T_v^a$. The \emph{leakage-tail map} is
+$\beta_{v,a}(\mathbf z)=\ell_a(R(\mathbf z))$, an explicit linear map into $C_1(L_a)$: the tail
+edge $\{x,y\}$ receives $-(z_a)_{xy}-(z_x)_{ay}-(z_y)_{ax}$, absent terms read as $0$.
+
+\subsection{Straddle localization by the window (P1)}
+Let $u\in C_2(X_a)$ with $h=\dbu u\in\Zbal(L_v^a)$ and $t=\ell_a(u)$. The imbalance of $t$ at
+$x$ equals $h_{ax}$ when $\{a,x\}$ is a link edge and $0$ otherwise, so it is supported on the
+straddle set $S_{v,a}=\{x>a:\{a,x\}\in L_v\}$ and sums to zero there. The window supplies (P1):
+if a cell $\{a,x,y\}$ shares the edge $\{a,x\}$ with a cell $\{v,a,x\}$, their third vertices
+$y,v$ differ by a factor below $2$, so $y<2v$. In particular, once $a\ge2v$ no straddling
+contribution occurs and the $a$-tail is automatically balanced, confining the difficulty to the
+factor-$2$ band $a\in(v,2v)$.
+
+\subsection{The finite leakage-gauge hypothesis}
+Let $\mathcal U_{v,a}=\{\ell_a(u): u\in C_2(X_a),\ \dbu u\text{ supported on and balanced in
+}L_v^a\}$.
+\begin{hypLG}
+For every $t\in\mathcal U_{v,a}$ there is $\mathbf z$ with $t+\beta_{v,a}(\mathbf z)\in T_a$;
+equivalently, in $C_1(L_a)/T_a$, $\overline{\mathcal U}_{v,a}\subseteq\operatorname{im}
+\overline{\beta}_{v,a}$. A stronger link-only sufficient form is
+$C_1(L_a)=\operatorname{im}\beta_{v,a}+T_a$.
+\end{hypLG}
+
+\subsection{One-step elimination and the induction}
+\begin{onestep}
+\textnormal{\st{[proved under (LG)$_{v,a}$]}}\ \ Given $u\in C_2(X_a)$ with
+$h=\dbu u\in\Zbal(L_v^a)$, there exist $q\in T_v^a$ and $u^+\in C_2(X_{a^+})$ with
+$\dbu u^+=h-q$ and $h-q\in\Zbal(L_v^{a^+})$.
+\end{onestep}
+\begin{proof}
+Let $t=\ell_a(u)$. By (LG)$_{v,a}$ pick $\mathbf z$ with $p:=t+\beta_{v,a}(\mathbf z)\in T_a$,
+and set $R=R(\mathbf z)$, $q=q(\mathbf z)\in T_v^a$, so $\dbu R=-q$ and
+$\ell_a(R)=\beta_{v,a}(\mathbf z)$. Since internal kernel tails are exactly $T_a$ (Lemma~C inside
+$X_a$), choose an internal cycle $N$ with $\ell_a(N)=p$. Put $u^+=u+R-N$. Then $\dbu u^+=h-q$,
+and $\ell_a(u^+)=t+\beta_{v,a}(\mathbf z)-p=0$, so $u^+$ has no cell with least vertex $a$ and
+lies in $C_2(X_{a^+})$. Finally $h-q$ is balanced and, being $\dbu u^+$ with $u^+$ free of $a$,
+has no edge incident to $a$, so $h-q\in\Zbal(L_v^{a^+})$.
+\end{proof}
+Reverse induction on $a$ proves: if $u\in C_2(X_a)$ and $\dbu u=h\in\Zbal(L_v^a)$, then
+$h\in T_v^a$. The base after the largest vertex is trivial; the step is the one-step lemma plus
+the induction hypothesis on $h-q$. Taking $a=a_0$ gives $W_v\subseteq T$, the crux, hence the
+structure theorem under the (LG) hypotheses. Unwinding exhibits the corrected bookkeeping: chains
+$u_0=u,u_1,\dots,u_r=0$ and certified $q_i\in T$ with $\dbu u_i=h_i$, $h_{i+1}=h_i-q_i$, so
+$h=q_0+\dots+q_{r-1}\in T$. The witness boundary is not held fixed; each peel subtracts a
+certified pair-fiber element.
+
+\section{(LG) as a finite condition, and the certificate system}\label{sec:cert}
+
+\subsection{The finite rank form}
+For fixed $a$, (LG)$_{v,a}$ is a single rank equality. Let $U_a$ span the occurring tails
+$\mathcal U_{v,a}$ (a kernel of an explicit two-block boundary matrix), $G_a$ span
+$\operatorname{im}\beta_{v,a}$, and $H_a$ span $T_a$. Then
+\[
+\text{(LG)}_{v,a}\text{ holds}\iff\rank[\,G_a\ H_a\ U_a\,]=\rank[\,G_a\ H_a\,],
+\]
+a machine-checkable equality of ranks of explicit integer matrices, one per level pair. The band
+localization confines the nontrivial checks to $a\in(v,2v)$.
+
+\subsection{The certificate stack}
+The structure theorem is certified at the five bundled complexes by the following, all
+reproducible from the repository root (bundles under \texttt{certificates/} are gzipped JSON with
+SHA-256 manifests).
+\begin{itemize}
+\item \emph{Leakage-gauge rank certificates.} The two-rank test passes at $616$ level pairs
+across the five $N$, integer-exact. \st{[certified]}
+\item \emph{Eight-prime battery at emission.} Every rank confirmed over eight prime
+characteristics as certificates are emitted. \st{[certified]}
+\item \emph{Modular sweep.} A $32{,}868$-check sweep over characteristics up to $997$ finds no
+bad prime below $1000$. \st{[verified]}
+\item \emph{Two-stage integer certificates.} For $N\in\{10^5,2\times10^5\}$ ($198$ pairs), a
+unit-pivot unimodular reduction followed by an exact Smith normal form of the residual block
+produces integer invariant factors with none divisible by any prime outside $\{2,3\}$, closing
+the field story on that subset without a bad-prime window above $1000$; at the three larger $N$
+the certificates cover $\Q$ and the eight-prime battery, not all characteristics. \st{[certified
+on $N\in\{10^5,2\times10^5\}$]}
+\item \emph{Independent enumeration replay.} A separate program rebuilds every cell inventory
+from $N$ alone and reproduces the fiber and generator data. \st{[verified clean]}
+\item \emph{Independent checker replay.} A second implementation, using spanning-tree balance
+bases and a different elimination order, re-verifies every rank over the battery. \st{[verified
+clean]}
+\end{itemize}
+The formal adjudication banked the $\Q$ plus eight-prime perimeter at $N\in\{10^5,2\times10^5\}$
+($198$ pairs, $1584$ rank-pair checks); the five-$N$, $616$-certificate extension is on the same
+epistemic footing, a theorem modulo a hashed finite certificate.
+
+\subsection{The bug that failed loudly (reproducibility)}
+The independent checker earned its keep. Its first version had a sign error in the barbell
+balance-closure, and it failed loudly: the checker disagreed with the emitter on $22$ of $78$
+fibers, at all eight primes at once. The fault was in the checker, not the certificates, and a
+loud, characteristic-independent disagreement is exactly what an independent replay should
+produce when something is wrong. The checker was rewritten with a brute-forced sign closure plus
+a per-component dimension guard (each balance component contributes $E-V+[\text{bipartite}]$),
+after which emitter, checker and enumerator agree on every pair. A certificate stack whose
+independent replays never disagree has not really been tested; the loud disagreement is the
+evidence that the replay is genuinely independent, and the adjudication credited it as such.
+
+\section{Characteristic stratification}\label{sec:strat}
+
+The kernel dimension of $\dbu$ is not field-independent, and the two exceptional characteristics
+are exactly the ones the oriented-hypergraph taxonomy predicts.
+\begin{itemize}
+\item \emph{Characteristic $2$} \st{[proved; from C-0744]}: over $\F_2$ the unsigned and signed
+boundaries coincide, so $\ker\dbu=\ker\partial_2$ has dimension $\elem$ (the fitting-cell space,
+not the balance-mode space).
+\item \emph{Characteristic $3$} \st{[verified; certified on the perimeter]}: over $\F_3$ the
+kernel dimension is exactly $e+1$, one extra cross-theta class. This is the all-entrant
+$\mathrm{GF}(k)$ phenomenon: an all-entrant minimal $k$-cross-theta is minimally dependent only
+over $\mathrm{GF}(k)$, so at $k=3$ exactly one such dependency becomes rational over $\F_3$ and
+disappears elsewhere. The measured $e+1$ is a confirmed prediction of Rusnak's characteristic
+theory.
+\item \emph{Every other characteristic} \st{[certified on the perimeter]}: over $\Q$ and over
+every prime outside $\{2,3\}$ the kernel dimension is $e$ (two-stage subset; battery-scoped
+elsewhere), by the certificate stack of \S\ref{sec:cert}.
+\end{itemize}
+On the certified set the picture is a clean stratification: $\F_2$ gives $\elem$, $\F_3$ gives
+$e+1$, and the generic $e$ holds everywhere else, with $\dd=\elem-e$ the characteristic-$2$ jump.
+
+\section{Positioning in the oriented-hypergraph program}\label{sec:pos}
+
+The generators are classified circuits; only the spanning statement is ours to claim, and even
+that is scoped. Under the standard dictionary (all-positive incidence corresponds to
+all-negative adjacency, so a positive circle is an even circle and Zaslavsky balance is
+evenness), the two mode families are known objects. The parity boxes are \emph{balanced
+circuits} in the sense of Rusnak, \emph{Oriented Hypergraphs: Introduction and Balance}
+\cite{Rusnak2013} (the arXiv preprint \texttt{1210.0943} carries the title \emph{Oriented
+Hypergraphs I}); their classification of balanced circuits is the relevant result (Theorem 7.2.7
+in the arXiv numbering, to be confirmed against the published version before quoting the number).
+The barbell modes are \emph{balanceable circuits} in the sense of Rusnak, Li, Xu, Yan and Zhu,
+\emph{Oriented Hypergraphs: Balanceability} \cite{RLXYZ2022}. We cite Lucas J.\ Rusnak as sole
+author of the 2013 paper.
+
+What is apparently unstated is the spanning statement. No nullity or spanning theorem exists in
+the oriented-hypergraph program: the unbalanceable circuit family is their declared open problem,
+and no global kernel-dimension formula for hypergraph incidence matrices is known at all. Our
+theorem, restricted to the sphenic/window family and at the certified perimeter, asserts that the
+two classified families already span the rational kernel, fibered over vertex-pairs by link
+balance; equivalently, the unbalanceable circuits are rationally redundant on this family. There
+is independent structural support: the all-entrant minimal $k$-cross-thetas are minimally
+dependent only over $\mathrm{GF}(k)$, so the simplest unbalanceable circuits contribute no
+rational kernel vectors, exactly the mechanism visible as the $\F_3$ stratum of \S\ref{sec:strat}.
+We frame the contribution as an apparently unstated spanning equality over their taxonomy, not as
+a new circuit theory. The fiber object is the Zaslavsky even-circle matroid, suggesting a
+matroid-union reading of $e$ (a route, not a result). Adjacent but distinct is the Nagel--Reiner
+complex-of-boxes machinery \cite{NagelReiner}, a different functor on the same skew objects; the
+one named residual specialist check is Duval's relative Laplacian spectral recursion
+\cite{DuvalLap}.
+
+\section{The all-$N$ problem, and what is proved toward it}\label{sec:allN}
+
+The all-$N$ structure theorem is \st{[open]}. The obstruction is precisely a uniform (LG). Two
+things are proved toward it. \emph{Band localization} \st{[proved]}: by (P1), all straddle
+imbalance lives in the factor-$2$ band, so for a level $a\ge2v$ every occurring $a$-tail is
+automatically balanced and the nontrivial gauge condition is confined to partners $a\in(v,2v)$;
+above $2v$ the peeling is straddle-free and unconditional. \emph{The richness program}
+\st{[open, sharply stated]}: what remains is to show the leakage map is surjective onto the
+occurring band tails uniformly in $N$, plausibly under an explicit finite richness hypothesis on
+the band fibers (enough independent even circles and barbells in each $L_{v,b}$ with $v<b<2v$ to
+realize every occurring straddle correction). This is a concrete, machine-testable family of
+conditions; proving it uniformly, or replacing it by a band-local witness-modification argument,
+would upgrade the theorem from the certified perimeter to all $N$.
+
+\section{Consequences at the certified perimeter}\label{sec:conseq}
+
+At the certified perimeter the whole coprime-graph arc becomes counting. The unsigned nullity
+$e$ is the dimension of a sum of pair-fiber balance spaces, computed by inclusion-exclusion over
+overlapping pairs; each component's balance dimension is $E-V+[\text{bipartite}]$, with the
+non-bipartite fraction growing with scale (measured by the bipartite census at three of the
+certified $N$: $0.73,0.81,0.88$), confining corrections to the completer fringe. The frustration
+term $\dd=\elem-e$ becomes the characteristic-$2$ jump of a certified quantity, and the canonical
+density $\kappa=(b_1-\dd)/V$ is reduced, at these $N$, to link-graph balance and connectivity
+combinatorics. Combined with the exact signed profile of the companion Paper~3, this removes
+the last uncertified rank from the sphenic ($\omega=3$) layer of the author's
+$-1$-multiplicity decomposition \cite{Rich2026a,Rich2026b} at the perimeter; the present paper
+is the fourth in that series.
+The transcendence question for $\kappa$ at infinity remains tied to the all-$N$ richness program.
+
+\appendix
+\section{Machine certificates (reproducible)}
+All scripts run from the repository root (concept DOI \texttt{10.5281/zenodo.21135221}).
+\texttt{mode\_completeness.py} (and a $5\times10^5$ variant): global completeness, rank of the
+mode family equals $e$ at $N\in\{5\times10^4,10^5,2\times10^5,5\times10^5\}$, values
+$482,1270,3082,9402$. \texttt{graded\_completeness.py}: the graded crux verified level by level.
+\texttt{atomic\_space\_test.py}: the atomic realizable decomposition at space level.
+\texttt{lg\_rank\_test.py}, \texttt{twostage\_certify.py}: the (LG) two-rank and the two-stage
+integer certificates. \texttt{lg\_replay\_check.py}, \texttt{enum\_replay.py}: the independent
+checker and enumeration replays. \texttt{gauge\_anatomy2.py}, \texttt{slab\_gf2\_sweep.py}: the
+$\F_3$ and $\F_2$ characteristic strata.
+
+\section*{Acknowledgement / disclosure}
+The balance-mode reformulation of the unsigned kernel and the reduction of completeness to the
+finite leakage-gauge condition (LG) are the author's; the one-step elimination architecture of
+\S\ref{sec:peel} originated in an AI-assisted solver round and was independently cold-refereed.
+The manuscript was prepared with assistance from a large language model (Claude, by Anthropic)
+for organisation, the classical background and prior-art positioning, the balance formalism, and
+extensive symbolic and numerical verification; all statements, proofs, and their interpretation
+are the author's and were checked independently, with banking-grade claims filed through the
+laboratory's adversarial adjudication protocol before being marked proved. Results carry status
+labels: \st{[proved]}, \st{[banked]}, \st{[verified]}, \st{[certified]}, \st{[open]}.
+
+\begin{thebibliography}{9}
+\bibitem{Rich2026a} L.~Rich, \emph{The $-1$-eigenspace of the coprime graph of integers:
+prime-cube modes and an exact multiplicity}, Zenodo (2026), doi:10.5281/zenodo.20933665.
+\bibitem{Rich2026b} L.~Rich, \emph{The $-1$-eigenvalue multiplicity of the coprime graph:
+a conditional sublinear law}, Zenodo (2026), doi:10.5281/zenodo.21169867.
+\bibitem{Rusnak2013} L.~J.~Rusnak, \emph{Oriented Hypergraphs: Introduction and Balance},
+Electron.\ J.\ Combin.\ \textbf{20}(3) (2013), \#P48; arXiv:1210.0943.
+\bibitem{RLXYZ2022} L.~J.~Rusnak, S.~Li, B.~Xu, E.~Yan, S.~Zhu, \emph{Oriented Hypergraphs:
+Balanceability}, Discrete Math.\ \textbf{345} (2022); arXiv:2005.07722.
+\bibitem{Zaslavsky} T.~Zaslavsky, \emph{Signed graphs}, Discrete Appl.\ Math.\ \textbf{4} (1982),
+no.~1, 47--74.
+\bibitem{DuvalLap} A.~M.~Duval, \emph{A relative Laplacian spectral recursion}, Electron.\ J.\
+Combin.\ \textbf{11}(2) (2006), \#R26, math/0507130.
+\bibitem{NagelReiner} U.~Nagel, V.~Reiner, \emph{Betti numbers of monomial ideals and shifted
+skew shapes}, Electron.\ J.\ Combin.\ \textbf{16}(2) (2009), \#R3, arXiv:0712.2537.
+\bibitem{Banerjee2025} S.~Banerjee, \emph{On structural properties and adjacency spectrum of
+coprime graph of integers}, Asian-Eur.\ J.\ Math.\ (2025), doi:10.1142/S179355712550069X;
+arXiv:2506.10583.
+\end{thebibliography}
+
+\end{document}

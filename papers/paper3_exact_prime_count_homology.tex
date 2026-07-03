@@ -1,0 +1,507 @@
+\documentclass[11pt,reqno]{amsart}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage[margin=1in]{geometry}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+
+% Named, unnumbered statements, to preserve the paper's A/B/C and Lemma 1/2 naming.
+\theoremstyle{plain}
+\newtheorem*{thmA}{Theorem A (slab identity)}
+\newtheorem*{thmB}{Theorem B}
+\newtheorem*{thmC}{Theorem C}
+\newtheorem*{lemDP}{Lemma 1 (Dominated-Pair Lemma)}
+\newtheorem*{lemJM}{Lemma 2 (join modes)}
+\newtheorem*{connlem}{Connectivity lemma}
+\newtheorem*{masterid}{Master identity}
+\newtheorem*{finparts}{Finite-parts lemma}
+\newtheorem*{advbij}{Advance bijection}
+\newtheorem*{fullprof}{Full profile}
+
+\newcommand{\rank}{\operatorname{rank}}
+\newcommand{\elem}{\operatorname{elem}}
+\newcommand{\cpc}{\operatorname{cap}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\eO}{\mathcal{O}}
+\newcommand{\PP}{\mathcal{P}}
+\newcommand{\dd}{\delta}
+\newcommand{\st}{\textsc}
+
+\begin{document}
+
+\title[Exact prime-count homology of the sphenic window complex]
+{Exact prime-count homology of the sphenic window complex}
+\author{Lee Rich}
+\thanks{ORCID: \href{https://orcid.org/0009-0004-8559-5177}{0009-0004-8559-5177}.
+The Improbability Lab. \emph{Working manuscript, 2 July 2026.}}
+\email{leemjrich@gmail.com}
+\date{2 July 2026}
+
+\begin{abstract}
+Fix a threshold $N$ and let the window be $W=(N/2,N]$. The \emph{sphenic window complex}
+$K_N$ is the $2$-dimensional simplicial complex whose triangles are the sphenics (squarefree
+integers $pqr$ with three distinct prime factors) lying in $W$, whose edges are the prime
+pairs that co-occur in such a triangle, and whose vertices are the primes involved. These
+complexes arise in connection with S.~Banerjee's question on the multiplicity of the
+eigenvalue $-1$ of the integer coprime graph \cite{Banerjee2025}. We reduce the entire
+homology of $K_N$ to prime-counting functions, with no linear algebra left in the answer, and
+we determine an exact rational limiting density.
+
+We prove a purely combinatorial identity (Theorem~A): for any finite \emph{slab} $R$, that is
+any difference of two order ideals in the coordinatewise order on strictly increasing integer
+tuples, the dimension of the top boundary-cycle space equals the number of \emph{fitting}
+cells, those $x$ with the all-ones shift $x+(1,\dots,1)$ still in $R$, over every field, with
+an explicit $\pm1$ integral basis. The sphenic complex is the length-$3$ slab in the
+prime-position ruler, so Theorem~A gives $\rank\partial_2=F-\elem$ exactly (the rs-identity),
+hence $b_1=(E-F)-V+1+\elem$. A finite-parts cancellation collapses this to a signed sum of
+fourteen prime counts (Theorem~B), whose leading behaviour gives an exact rational density
+$b_1/\pi(N/6)\to 6H-3/22=97360699/1078282205\approx0.0902924$ (Theorem~C), unconditional on
+the prime number theorem, Bertrand's postulate, Dusart's explicit prime-gap bounds, and a
+finite computation. The top Betti number is $b_2=\elem=F-D(N/2)+\cpc$ for every $N$, so the
+full profile is $(b_0,b_1,b_2)=(1,b_1,\elem)$ for all $N\ge154$.
+
+We close with an honest negative. The prime counts of Theorem~B carry the non-trivial zeros
+of $\zeta$, and their amplitudes can be read off the fluctuation of $b_1$; this is exactly the
+classical explicit-formula duality present in any prime count, and we verify directly that
+only the prime ruler produces the zeros. We claim \textbf{nothing} toward the Riemann
+hypothesis and no cheaper route to primes or zeros: the construction consumes the primes as
+input.
+\end{abstract}
+
+\maketitle
+
+\section{The sphenic window complex, and Banerjee's motivation}
+
+\subsection{The object}
+Fix $N$. The \emph{window} is $W=(N/2,N]$. A \emph{sphenic} is a squarefree integer with
+exactly three distinct prime factors, $n=pqr$ with $p<q<r$. We build a $2$-complex $K_N$: the
+\emph{vertices} are the primes dividing some sphenic in $W$ (to leading order, the primes up
+to $N/6$); the \emph{triangles} ($2$-cells) are the sphenics in $W$, one $2$-simplex
+$\{p,q,r\}$ each; the \emph{edges} are the prime pairs $\{p,q\}$ that co-occur in at least one
+such triangle. Write $V,E,F$ for the numbers of vertices, edges and triangles, and let
+$\partial_2$ be the simplicial boundary $[p,q,r]\mapsto[q,r]-[p,r]+[p,q]$. The two invariants
+of interest are $\rank\partial_2$ over $\Q$ and the first Betti number
+$b_1=E-(V-1)-\rank\partial_2$.
+
+\subsection{Why this complex}
+Banerjee \cite{Banerjee2025} studies the coprime graph of integers and gives a lower bound on
+the multiplicity of the eigenvalue $-1$, leaving the exact value open. In the author's
+Papers~1 and~2 \cite{Rich2026a,Rich2026b} that multiplicity is decomposed over the squarefree
+layers of the integers, turning Banerjee's bound into an equality; the sphenic (three-prime)
+layer contributes exactly the homological data of $K_N$, the first Betti number $b_1$ and a
+companion count. The present paper, the third in that series, determines this layer: it pins,
+exactly and rationally, the signed density underneath Banerjee's error term. It does not, on
+its own, close the full multiplicity, which additionally requires the unsigned rank and the
+other odd layers (see \S\ref{sec:shadow} and the companion Paper~4).
+
+\subsection{The result in one paragraph}
+The first Betti number is governed by a completely non-arithmetic fact about staircase-shaped
+regions of a lattice (\S\ref{sec:slab}). Applied to the sphenic window that fact collapses,
+after an exact cancellation, into a short signed sum of prime counts
+(\S\ref{sec:slabsphenic}--\S\ref{sec:formula}). Dividing by the vertex count and letting $N$
+grow gives an exact rational constant (\S\ref{sec:density}). The top Betti number is a single
+semiprime count away from the same machinery (\S\ref{sec:top}). Finally
+(\S\ref{sec:shadow}) we delimit the tempting appearance that the object ``sees'' the Riemann
+zeros: it is the ordinary duality and nothing more.
+
+\section{The combinatorial core: the slab identity}\label{sec:slab}
+
+\subsection{Setup}
+Fix an integer $\omega\ge2$. Let $P_\omega$ be the set of strictly increasing $\omega$-tuples
+of positive integers, ordered coordinatewise: $x\le y$ iff $x_t\le y_t$ for every $t$. A
+subset $D\subseteq P_\omega$ is a \emph{down-set} (order ideal) if $y\in D$ and $x\le y$ imply
+$x\in D$. A \emph{slab} is a difference $R=D_{\mathrm{hi}}\setminus D_{\mathrm{lo}}$ of two
+down-sets, $D_{\mathrm{lo}}\subseteq D_{\mathrm{hi}}$; every slab in this paper is finite.
+Regard each $\omega$-tuple as an $(\omega-1)$-simplex on its entries, with the alternating
+boundary $\partial=\partial_{\omega-1}$; restricting to the cells of $R$ gives a chain group
+and a boundary map. Write $\dd=(1,\dots,1)$, call $x\in R$ \emph{fitting} if $x+\dd\in R$, and
+write $x\ll y$ for strict domination, $x_t<y_t$ for every $t$.
+
+\subsection{The theorem}
+\begin{thmA}
+\textnormal{\st{[proved; banked as C-0744]}}\ \ Fix $\omega\ge2$ and let
+$R=D_{\mathrm{hi}}\setminus D_{\mathrm{lo}}$ be a finite slab in $P_\omega$. Then, over every
+field,
+\[
+\dim\ker\partial|_R=\#\{x\in R: x+\dd\in R\}=(\text{number of fitting cells}).
+\]
+Moreover $\ker_{\Z}\partial|_R$ is free with an explicit basis of $\pm1$ vectors
+(\S\ref{sec:assembly}), and every invariant factor of $\partial|_R$ equals $1$, so there is no
+torsion anywhere in the Smith normal form.
+\end{thmA}
+
+\noindent The proof has two ingredients: a domination lemma giving the rank lower bound (the
+non-fitting boundaries are independent), and an explicit family of cycles giving the matching
+upper bound (each fitting cell carries a cycle expressible in strictly larger cells). Both are
+field-agnostic and integral.
+
+\subsection{Lemma 1: the Dominated-Pair Lemma}
+\begin{lemDP}
+\textnormal{\st{[proved]}}\ \ In the support of any nonzero $(\omega-1)$-cycle $z$, over any
+field, there exist cells $x\ll y$. Equivalently, a $\ll$-antichain of cells has linearly
+independent boundaries.
+\end{lemDP}
+\begin{proof}[Proof, base $\omega=2$]
+A nonzero edge-chain with $\partial z=0$ gives every vertex of the support graph signed degree
+zero, hence degree at least $2$, so the support contains a graph cycle $C$. Let $a^*$ be the
+smallest vertex of $C$ and $(a^*,p),(a^*,q)$ its two edges on $C$, with $p<q$. Walk $C$ from
+$p$ to $q$ avoiding $a^*$; every vertex on this walk exceeds $a^*$. Since the walk ends at
+$q>p$ it contains an edge $g=(c,d)$ (sorted) with $d>p$ and $c>a^*$. Then $(a^*,p)\ll(c,d)$.
+\end{proof}
+\begin{proof}[Proof, induction step $\omega\ge3$ (assuming the lemma at $\omega-1$)]
+Let $z\ne0$ with $\partial z=0$, and let $v$ be the smallest vertex in $\operatorname{supp}(z)$.
+Split $\operatorname{supp}(z)=A\sqcup B$, where $A$ is the cells containing $v$ (as first
+coordinate) and $B$ the rest, whose vertices all exceed $v$. Write each $x\in A$ as $v*x'$ with
+tail $x'$ an increasing $(\omega-1)$-tuple on values above $v$; the tails are distinct. From
+$\partial(v*x')=[x']-v*\partial[x']$, sort facets by whether they contain $v$:
+\begin{itemize}
+\item the $v$-part gives $v*(\sum_A c_x\,\partial x')=0$, and $v*$ is injective on $v$-free
+chains, so $w:=\sum_A c_x[x']$ is a cycle, nonzero since $A\ne\varnothing$, the tails are
+distinct, and the $c_x$ are nonzero;
+\item the $v$-free part gives $\sum_A c_x[x']+\sum_B c_y\,\partial y=0$.
+\end{itemize}
+Apply the lemma at $\omega-1$ to $w$: there are tails $e\ll f$ in $\operatorname{supp}(w)$.
+Since the coefficient of $[f]$ in $w$ is nonzero, the $v$-free relation forces $f$ to appear
+in $\partial y$ for some $y\in B\cap\operatorname{supp}(z)$, say $y=f\cup\{s\}$ with $s\notin f$,
+$s>v$.
+
+\emph{Insertion claim: $(v,e)\ll y$.} The first coordinate satisfies $v<y_1$ since every entry
+of $y$ exceeds $v$. Let $s$ land at sorted index $k$ of $y$, so $y_j=f_j$ for $j<k$, $y_k=s$,
+$y_j=f_{j-1}$ for $j>k$. For each $t\in\{1,\dots,\omega-1\}$: if $t+1<k$ then
+$y_{t+1}=f_{t+1}>f_t>e_t$; if $t+1=k$ then $y_k=s>f_{k-1}>e_{k-1}=e_t$; if $t+1>k$ then
+$y_{t+1}=f_t>e_t$. In every case $e_t<y_{t+1}$, so $(v,e)\ll y$ with both cells in
+$\operatorname{supp}(z)$.
+\end{proof}
+The step never uses the slab structure, and a degenerate base re-proves $\omega=2$, so the
+whole lemma is one induction from a trivial base.
+
+\subsection{Lemma 2: join modes}
+\begin{lemJM}
+\textnormal{\st{[proved]}}\ \ Let $x$ be a fitting cell of the slab $R$. Partition $x$ into
+maximal runs of consecutive integers. For a run occupying values $a,a+1,\dots,b$, let its
+factor be the boundary cycle of the simplex on $\{a,\dots,b+1\}$ (the alternating sum of its
+subsets each omitting one value). Let $J_x$ be the join of the run factors, with product
+signs. Then: \emph{(1)} $J_x$ is a nonzero cycle; \emph{(2)}
+$\operatorname{supp}(J_x)=\{y: x\le y\le x+\dd\}$ exactly, and every such $y$ lies in $R$ by
+the sandwich $y\le x+\dd\in D_{\mathrm{hi}}$ and $y\ge x\notin D_{\mathrm{lo}}$; \emph{(3)}
+every coefficient of $J_x$ is $\pm1$, and $x$ is the unique coordinatewise minimum of
+$\operatorname{supp}(J_x)$.
+\end{lemJM}
+Consequently, for any strictly monotone ruler (a value function that is a linear extension of
+the coordinatewise order), every support cell of $J_x$ other than $x$ has strictly larger
+value, so $\partial x$ lies in the span of $\{\partial y: y\in R,\ \mathrm{val}(y)>\mathrm{val}(x)\}$.
+This resolves the apparent collision obstruction: a fitting cell with $x_{t+1}=x_t+1$ does not
+carry a full $2^\omega$ box, but the degenerate box is a join of higher simplex boundaries (for
+one collision, the suspension of a triangle boundary, a $2$-sphere on six cells).
+
+\subsection{Assembly, and the integral basis}\label{sec:assembly}
+\emph{Non-fitting cells form a $\ll$-antichain.} If $x,y\in R$ are non-fitting and $x\ll y$,
+then $x+\dd\le y\in D_{\mathrm{hi}}$ and $x+\dd\ge x\notin D_{\mathrm{lo}}$ give $x+\dd\in R$, so
+$x$ was fitting, a contradiction. \emph{$\rank\ge\#$non-fitting:} a nontrivial dependency among
+the non-fitting boundaries is a nonzero cycle on a $\ll$-antichain, contradicting Lemma~1.
+\emph{$\rank\le\#$non-fitting:} order the cells by strictly decreasing ruler value and
+eliminate; when a fitting $x$ arrives, Lemma~2 writes $\partial x$ as a $\pm1$ combination of
+strictly larger-value boundaries, already processed, so $x$ adds no pivot. Hence
+$\rank=\#$non-fitting and $\dim\ker=\#$fitting, over every field.
+
+For the integral statement, order the cells by any linear extension of the coordinatewise
+order. For each fitting $x$, the vector $J_x$ has its least nonzero entry at row $x$ with value
+$\pm1$ (Lemma~2), and distinct fitting cells give distinct pivot rows, so $\{J_x\}$ is in
+permuted echelon form with unit pivots. This gives independence over every field; saturation of
+the integer span (eliminate along the $\pm1$ pivots); and hence
+$\ker_{\Z}\partial|_R=\Z\text{-span}\{J_x\}$ is free of rank $\#$fitting. Finally
+$\rank_{\F_p}\partial=\#$non-fitting $=\rank_{\Q}\partial$ for every prime $p$, so no invariant
+factor is divisible by any prime and the Smith normal form is $(1,\dots,1,0,\dots,0)$.
+
+\subsection{Placement, and what is classical}
+The strict-domination order is exactly the shifting order $x+\dd\le y$ of Klivans
+\cite{Klivans}, underlying Kalai's algebraic shifting. \emph{The pure case is Björner--Kalai}
+\cite{BjornerKalai}: for $D_{\mathrm{lo}}=\varnothing$ the complex is a near-cone, and their
+theorem gives $\beta_{\omega-1}=\#\{\text{top cells avoiding vertex }1\}$; the bijection
+$x\mapsto x-\dd$ carries these onto the fitting cells, so for pure down-sets Theorem~A is the
+classical theorem in one line. \emph{The slab case is the new content, and it is not relative
+homology:} the relative top cycles of $(D_{\mathrm{hi}},D_{\mathrm{lo}})$ need boundary only in
+$D_{\mathrm{lo}}$, whereas our cycles need boundary zero in the ambient complex, a strictly
+smaller space, so Duval's relative-shifting inequality \cite{DuvalRel} does not settle it. The
+nearest machinery is Nagel--Reiner \cite{NagelReiner}: their Definition~3.4 names exactly our
+slabs, and their complex-of-boxes cells are the same species as our join modes, but their
+theorems compute the minimal free resolution of the associated ideal (a different functor);
+their skew results are $d=2$ only, and the general-$d$ skew case is their open Question~5.1. The
+honest verdict is that Theorem~A was not located there; the novelty is unclear pending a
+specialist, and any external write-up must cite Björner--Kalai (pure case) and Nagel--Reiner
+(box complexes). A residual check against Duval's relative Laplacian spectral recursion
+\cite{DuvalLap} is the one remaining place the count could already be implicit.
+
+\section{The sphenic complex as a slab, and the rs-identity}\label{sec:slabsphenic}
+
+Number the primes $p_1=2,p_2=3,p_3=5,\dots$ and give each prime the coordinate equal to its
+position $i$. A sphenic $p_ip_jp_k$ becomes the increasing triple $(i,j,k)$; its value
+$p_ip_jp_k$ is used only to test window membership. The all-ones shift
+$(i,j,k)\mapsto(i+1,j+1,k+1)$ is exactly ``advance each prime to the next prime,'' $p\mapsto
+p^+$. Thus the sphenic complex is the $\omega=3$ slab in the prime-position ruler, and the
+fitting condition is $p^+q^+r^+\le N$. Define the \emph{fitting count}
+$\elem(N)=\#\{\text{sphenic }pqr\in W: p^+q^+r^+\le N\}$. Theorem~A at $\omega=3$ reads:
+\[
+\boxed{\ \rank\partial_2=F-\elem\ }\qquad\text{(the rs-identity), \st{[proved, corollary of Theorem~A]}.}
+\]
+Because $\rank\partial_2=F-\elem$, the first Betti number is a pure count:
+$b_1:=E-(V-1)-\rank\partial_2=(E-F)-V+1+\elem$. That it equals the topological first Betti
+number requires connectivity.
+\begin{connlem}
+\textnormal{\st{[proved; certified self-contained within the C-0743 banking-grade packet]}}\ \
+For all $N\ge154$ the complex $K_N$ is connected, so $b_0=1$ and the count above is the Betti
+number $b_1$ identically.
+\end{connlem}
+\noindent The proof is a hub argument through the vertex $2$: every prime appearing as a vertex
+is tied to the $2$-hub through window sphenics guaranteed by Bertrand's postulate, Nagura's
+bound, and Dusart's estimates once $N\ge N_c=154$, with the component count $c=1$ checked
+exactly at four $N$. The separate edge-support layer-graph lemma (C-0739) is a related but
+distinct result.
+
+\section{An exact prime-count formula for $b_1$}\label{sec:formula}
+
+\subsection{Ingredients}
+Two facts are used as input; both sit inside the banked C-0743 package (independently
+re-derived by hand, cleared through four hostile adjudication rounds, with a hashed audit
+script and a formula-free brute-force confirmation at $N=1.05,1.20,1.50\times10^6$).
+\begin{masterid}
+\textnormal{\st{[proved; verified exact]}}\ \ With $B:=F-\elem$,
+\[
+E-B=\pi(N/4)+\cpc-D_E-1,
+\]
+where $\cpc$ counts the crossing triples $pqr\le N/2$ with $p^+q^+r^+>N$, and $D_E$ is a
+blocker/isolation pair count. The transcendental semiprime term $Q_2(N/2)$ cancels identically,
+which is why no Mertens-type constant survives.
+\end{masterid}
+\begin{finparts}
+\textnormal{\st{[proved; certificate below]}}\ \ For $N>N_1=1{,}040{,}255$,
+\[
+\cpc=10+\!\!\sum_{(p,q)\in\mathcal T}\!\!\bigl[\pi(N/2pq)-\pi(N/p^+q^+)\bigr],\quad
+D_E=\bigl[\pi(N/4)-\pi(N/6)\bigr]+\!\!\sum_{p\in\{3,5,7\}}\!\!\bigl[\pi(N/2p\,p^-)-\pi(N/p\,p^+)\bigr],
+\]
+where $\mathcal T=\{(2,3),(2,5),(2,7),(3,5),(3,7),(3,13),(3,19),(3,23),(5,7),(7,13)\}$ is the
+set of ten crossing pairs.
+\end{finparts}
+\noindent The threshold $N_1$ comes from a finite family of at most $601$ late-crossing
+triples, dominated by $(p^+/p)(q^+/q)\le1.98925<2$ together with Dusart's estimates, which
+certify the largest such third prime satisfies $r<14{,}872$; the enumerated family's observed
+maximum is $r=5{,}591$. The certified bound and the observed maximum are distinct numbers, both
+kept on the record.
+
+\subsection{The cancellation}
+From $b_1=(E-F)-V+1+\elem=(E-B)-(V-1)$ and the master identity,
+$b_1=\pi(N/4)-\pi(N/6)+\cpc-D_E$. Insert the finite-parts forms. The leading
+$\pi(N/4)-\pi(N/6)$ cancels the $p=2$ term of $D_E$; the three cap-pairs $(2,3),(3,5),(5,7)$
+cancel term for term against the blocker terms for $p=3,5,7$ (denominators $12/15$, $30/35$,
+$70/77$ match exactly). Seven cap-pairs and the constant $10$ survive.
+\begin{thmB}
+\textnormal{\st{[proved, given the inputs above; verified]}}\ \ For all $N>1{,}040{,}255$,
+\[
+b_1(N)=10+\!\!\sum_{(p,q)\in\PP}\!\!\bigl[\pi(N/2pq)-\pi(N/p^+q^+)\bigr],\quad
+\PP=\{(2,5),(2,7),(3,7),(3,13),(3,19),(3,23),(7,13)\}.
+\]
+\end{thmB}
+\noindent Written out,
+\begin{align*}
+b_1(N)=10&+\pi(N/20)-\pi(N/21)+\pi(N/28)-\pi(N/33)+\pi(N/42)-\pi(N/55)\\
+&+\pi(N/78)-\pi(N/85)+\pi(N/114)-\pi(N/115)+\pi(N/138)-\pi(N/145)\\
+&+\pi(N/182)-\pi(N/187).
+\end{align*}
+The constant $10$ counts, for each crossing pair, the single completer dropped on the lower
+edge of the open interval $\pi(N/2pq)-\pi(N/p^+q^+)$ (the largest prime $\le N/p^+q^+$, whose
+successor clears $N$); these ten dropped completers are genuine cells, \st{[verified $10/10$ at
+$N=2\times10^6$ and $5\times10^7$]}.
+
+\subsection{Check}
+The difference $b_1-(\text{seven-pair sum})$ equals $10$ exactly at nine values of $N$ from
+$1.105\times10^6$ to $1.20\times10^8$, with $b_1$ computed independently as $(E-F)-V+1+\elem$
+from the enumerated complex; the seven-pair sum reproduces the entire oscillation of $b_1$ to
+numerical identity.
+
+\section{The limiting density}\label{sec:density}
+
+Each bracket satisfies $\pi(N/2pq)-\pi(N/p^+q^+)\sim(N/\log N)(1/2pq-1/p^+q^+)$, and
+$V=\pi(N/6)\sim N/(6\log N)$.
+\begin{thmC}
+\textnormal{\st{[proved, unconditional on PNT $+$ Bertrand $+$ Dusart $+$ a finite
+computation; banked as C-0743, banking-grade]}}
+\[
+b_1(N)/V(N)\ \longrightarrow\ K:=6H-\tfrac{3}{22}=\frac{97360699}{1078282205}=0.0902924\dots,
+\]
+where $H=\sum_{\text{ten pairs}}\bigl(1/2pq-1/p^+q^+\bigr)=\dfrac{488798363}{12939386460}$.
+\end{thmC}
+\noindent The limit is positive: writing $K=6\bigl(\tfrac14-\tfrac{7}{66}+H\bigr)-1$, positivity
+is $H>1/44$, and $1/60+1/420+5/924$ already exceeds $1/44$. Equivalently, the three cancelled
+pairs of $H$ sum to exactly $1/44$, so $K=6\times(\text{seven-pair sum})$, a sum of seven
+positive brackets. No transcendental constant appears: the leading (Mertens-type) prime-count
+constant cancels between the numerator's pieces, which is why $K$ is rational. Here $K$ is the
+density of the signed first Betti number $b_1$; the lab separately tracks the canonical density
+$(b_1-\dd)/V\approx0.0585$, where $\dd=\rank_{\text{uns}}\partial_2-\rank_{\text{sgn}}\partial_2$
+is a torsion-like frustration term, not known to be rational and where any remaining
+transcendence lives (the companion Paper~4 reduces $\dd$ to counting at a certified perimeter).
+These two numbers must not be confused.
+
+\section{The top Betti number, and the full profile}\label{sec:top}
+
+The complex has no $3$-cells, so $b_2=\dim\ker\partial_2=\elem$ by Theorem~A directly. What
+C-0745 adds is a closed form for $\elem$ through the advance map.
+\begin{advbij}
+\textnormal{\st{[proved; banked as C-0745]}}\ \ The next-prime map
+$(p,q,r)\mapsto(p^+,q^+,r^+)$ carries increasing prime triples bijectively onto increasing
+odd-prime triples (inverse: the previous-prime map, one-line surjectivity). The shell count
+\[
+J(N):=\#\{pqr\le N: p^+q^+r^+>N\}=D(N/2)=\#\{\text{odd semiprimes}\le N/2\}\quad\text{exactly, every }N.
+\]
+\end{advbij}
+\noindent The lower-bound step is one line: $p^+q^+r^+>pqr>N/2$, so a shell triple's image is
+an odd semiprime $\le N/2$, and the bijection matches the counts (recovering $168330$ at
+$N=2\times10^6$). Splitting at the window edge gives, with no threshold,
+\[
+\rank\partial_2=D(N/2)-\cpc,\qquad b_2=\elem=F-D(N/2)+\cpc\quad\text{exact for every }N.
+\]
+Above the threshold this inherits the ten-pair $\pi$-form of $\cpc$: for $N>1{,}040{,}255$,
+\[
+b_2(N)=S(N)-S(N/2)-D(N/2)+10+\!\!\sum_{\text{ten pairs}}\!\!\bigl[\pi(N/2pq)-\pi(N/p^+q^+)\bigr],
+\]
+with $S$ the sphenic count, $F=S(N)-S(N/2)$. Verified exact at
+$N\in\{2\times10^5,5\times10^5,1.05\times10^6,2\times10^6,5\times10^6,2\times10^7\}$; below $N_1$
+the $\pi$-form is off by exactly $2$.
+\begin{fullprof}
+\textnormal{\st{[proved]}}\ \ For all $N\ge154$, $(b_0,b_1,b_2)=(1,b_1,\elem)$, with $b_1=10+$
+fourteen prime counts for $N>1{,}040{,}255$, $b_1/V\to6H-3/22$, and
+$b_2=\elem=F-D(N/2)+\cpc$. No linear algebra survives in any of the three numbers.
+\end{fullprof}
+\noindent For Banerjee's problem this supplies the three-prime layer in closed form: the signed
+density his error term skirts is pinned exactly and rationally. The full $-1$ multiplicity still
+needs the unsigned rank ($\dd$, addressed at the certified perimeter in the companion Paper~4) and
+the other odd layers.
+
+\section{The spectral shadow, and exactly how far it goes}\label{sec:shadow}
+
+\subsection{What is true}
+Because $b_1$ is a fixed signed combination of prime counts (Theorem~B), its fluctuation about
+the smooth part is, by the classical explicit formula, a sum over the non-trivial zeros $\rho$
+of $\zeta$:
+\[
+b_1(N)-(\text{smooth})=-\sum_\rho M(\rho)\cdot(N^\rho\text{-type term}),\qquad
+M(\rho)=\sum_{m}\pm m^{-\rho},
+\]
+the sum over the fourteen denominators $m$. The factor $M(\rho)$, a Dirichlet polynomial in
+fourteen small integers, is derived with no reference to $\zeta$. Scored against the measured
+per-zero amplitudes of $b_1/V$ (data to $N=6\times10^{10}$, the known zeros used only as
+sampling frequencies), it predicts the relative amplitudes with correlation $0.992$ over the
+first $30$ zeros ($0.974$ without the dominant first zero), matching into the noise floor
+($\gamma_{24}$ measured $0.026$ vs.\ predicted $0.027$; $\gamma_{30}$ $0.026$ vs.\ $0.028$),
+\st{[verified]}. Reading zeros directly off the spectrum recovers $11$ of them, up to the
+$18$th near $\gamma_{18}\approx72.1$, resolution-limited not signal-limited (the count grows
+$6,9,11$ as sieve depth grows $3\times10^8,6\times10^9,6\times10^{10}$). The fluctuation grows
+no faster than $N^{1/2}$ (measured exponent $0.44$), consistent with and required by the
+Riemann hypothesis; the fourteen-term combination cancels about $99.6\%$ of the individual
+prime-count fluctuation, so $b_1$ is an unusually quiet object.
+
+\emph{The dartboard null} \st{[verified]}: tested against $20{,}000$ loose controls (fourteen
+random distinct integers in $[10,200]$, balanced signs) and $20{,}000$ matched controls (seven
+crossing-style pairs with ratio in $[1.005,1.6]$), the true envelope scores $0.998$ ($0.993$
+excluding $\gamma_1$) against a null median $0.64$ and null maximum $0.94$ across all $40{,}000$
+draws. With the shared decay stripped, the null collapses to median $\approx0.00$ while the true
+envelope holds $0.992$. The amplitude channel is specific to the topology-selected denominators,
+not an artifact of shared decay.
+
+\subsection{What this is not}
+All of the above is the ordinary prime-to-zero duality; the zeros are present because $b_1$ is
+built from prime counts, and every prime count contains them (Riemann, 1859). Two controls make
+the point. \emph{The envelope is blind to the zeros' positions:} $|M(\tfrac12+it)|$ averages
+$0.489$ at the $30$ true zeros and $0.500$ at $5{,}000$ random heights, so the zeros sit at the
+$48$th percentile of $M$'s own values. \emph{Only the prime ruler throws them:} the identical
+construction with the plain-integer ruler peaks at the window-beat frequency, not the first
+zero, while the prime ruler puts the first zero far above everything else. Consequently we claim
+\st{[not claimed]} any progress on the Riemann hypothesis, any new bridge between primes and
+zeros, or any cheaper route to either: computing $b_1$ requires the primes as input, and
+nothing is obtained more cheaply than it is supplied.
+
+\section{Discussion}
+
+The self-contained core is the rational density $K=6H-3/22$ (Theorem~C) and its exact finite-$N$
+form as fourteen prime counts (Theorem~B), resting only on PNT, Bertrand, Dusart, and a finite
+certificate; this pins the signed density Banerjee's error term skirts, and the full profile
+supplies the whole three-prime layer as counting functions. The most broadly interesting piece
+may be Theorem~A itself, a statement with no arithmetic in it: its pure-down-set case is
+classical (Björner--Kalai), and the slab case is a concrete theorem in a well-studied corner of
+algebraic combinatorics; whether it is already on record is a question a specialist could settle
+on sight, and the honest current label is ``adjacent, apparently unstated.'' What is honestly
+not here is any route to the Riemann hypothesis or any predictor for primes.
+
+\appendix
+\section{The fourteen denominators}
+Signed, in order: $+20,-21,+28,-33,+42,-55,+78,-85,+114,-115,+138,-145,+182,-187$. Each pair
+$(2pq,p^+q^+)$ is a crossing pair with $p^+q^+>2pq$, so each bracket counts primes in a thin
+interval and is non-negative.
+
+\section{Certificates and data (reproducible)}
+All entry points run from the repository root; the repository (concept
+DOI \texttt{10.5281/zenodo.21135221}) holds the scripts and the certificate bundles under
+\texttt{certificates/} as gzipped JSON with SHA-256 manifests.
+\begin{itemize}
+\item \emph{Slab identity and field-independence.} $\dim\ker$ over $\F_2,\F_3,\F_7,\F_{101},
+\F_{2^{31}-1}$ agree (\texttt{slab\_gf2\_sweep.py}, $149$ slabs, $0$ mismatches); verified
+$\omega=2,3,4$ across many rulers, $\omega=5,7$ for the prime case; proof verification
+\texttt{dp\_proof\_verify.py} clean.
+\item \emph{Theorem~B.} $b_1-$ seven-pair sum $=10$ at $N\in\{1.105,1.986,3.569,6.413,11.52,
+20.71,37.21,66.87,120.2\}\times10^6$.
+\item \emph{Theorem~C finite parts.} $H=488798363/12939386460$; the $D_E$ constant
+$7/66=1/12+1/60+1/210+1/770$ with blockers $\{2,3,5,7\}$; $K=97360699/1078282205$; late-crossing
+family $\le601$ triples; certified $r<14{,}872$ (Dusart) vs.\ observed maximum $r=5{,}591$;
+hashed audit script reproduces all certificates plus a formula-free brute-force check at
+$N=1.05,1.20,1.50\times10^6$.
+\item \emph{Top Betti number.} \texttt{elem\_closed\_form\_verify.py}: $b_2=\elem=F-D(N/2)+\cpc$
+exact at $N\in\{2\times10^5,5\times10^5,1.05\times10^6,2\times10^6,5\times10^6,2\times10^7\}$;
+$J(N)=D(N/2)$ recovers $168330$ at $N=2\times10^6$.
+\item \emph{Spectral shadow.} $30$-zero envelope correlation $0.992$ ($0.974$ without the first
+zero); dartboard null over $40{,}000$ controls (\texttt{envelope\_dartboard.py});
+position-blindness control $0.489$ vs.\ $0.500$; growth exponent $0.44$.
+\end{itemize}
+
+\section*{Acknowledgement / disclosure}
+The reduction of the first Betti number to the slab fitting-count (the rs-identity) and the
+finite-parts cancellation to fourteen prime counts are the author's. The manuscript was prepared
+with assistance from a large language model (Claude, by Anthropic) for organisation, the
+classical background and prior-art positioning, the slab formalism, and extensive symbolic and
+numerical verification; all statements, proofs, and their interpretation are the author's and
+were checked independently, with banking-grade claims filed through the laboratory's adversarial
+adjudication protocol before being marked proved. Results carry status labels: \st{[proved]},
+\st{[banked]}, \st{[verified]}, \st{[known]}, \st{[not claimed]}.
+
+\begin{thebibliography}{9}
+\bibitem{Rich2026a} L.~Rich, \emph{The $-1$-eigenspace of the coprime graph of integers:
+prime-cube modes and an exact multiplicity}, Zenodo (2026), doi:10.5281/zenodo.20933665.
+\bibitem{Rich2026b} L.~Rich, \emph{The $-1$-eigenvalue multiplicity of the coprime graph:
+a conditional sublinear law}, Zenodo (2026), doi:10.5281/zenodo.21169867.
+\bibitem{Banerjee2025} S.~Banerjee, \emph{On structural properties and adjacency spectrum of
+coprime graph of integers}, Asian-Eur.\ J.\ Math.\ (2025), doi:10.1142/S179355712550069X;
+arXiv:2506.10583.
+\bibitem{BjornerKalai} A.~Björner, G.~Kalai, \emph{An extended Euler--Poincaré theorem}, Acta
+Math.\ \textbf{161} (1988), 279--303.
+\bibitem{Klivans} C.~Klivans, \emph{Threshold graphs, shifted complexes, and graphical
+complexes}, Discrete Math.\ (2007), math/0703114.
+\bibitem{DuvalRel} A.~M.~Duval, \emph{Algebraic shifting increases relative homology},
+math/9809195, Discrete Math.\ (2000).
+\bibitem{DuvalLap} A.~M.~Duval, \emph{A relative Laplacian spectral recursion}, Electron.\ J.\
+Combin.\ \textbf{11}(2) (2006), \#R26, math/0507130.
+\bibitem{NagelReiner} U.~Nagel, V.~Reiner, \emph{Betti numbers of monomial ideals and shifted
+skew shapes}, Electron.\ J.\ Combin.\ \textbf{16}(2) (2009), \#R3, arXiv:0712.2537.
+\bibitem{Dusart} P.~Dusart, \emph{Explicit estimates of some functions over primes}, Ramanujan
+J.\ \textbf{45} (2018), 227--251.
+\end{thebibliography}
+
+\end{document}
